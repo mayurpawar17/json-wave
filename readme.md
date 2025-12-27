@@ -79,10 +79,11 @@ fetch('https://jsonwave.onrender.com/api/v1/posts')
 fetch('https://jsonwave.onrender.com/api/v1/posts/1')
   .then(res => res.json())
   .then(data => console.log(data));
+```
 
 
 ### 2️⃣ Create New Resource (POST)
-
+```js
 fetch('https://jsonwave.onrender.com/api/v1/posts', {
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
@@ -94,9 +95,10 @@ fetch('https://jsonwave.onrender.com/api/v1/posts', {
 })
 .then(res => res.json())
 .then(data => console.log('Created:', data));
+```
 
 ### 3️⃣ Update Resource (PUT / PATCH)
-
+```js
 // Full update
 fetch('https://jsonwave.onrender.com/api/v1/posts/1', {
   method: 'PUT',
@@ -114,17 +116,17 @@ fetch('https://jsonwave.onrender.com/api/v1/posts/1', {
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({ title: 'New Title Only' })
 });
-
+```
 
 ### 4️⃣ Delete Resource
-
+```js
 fetch('https://jsonwave.onrender.com/api/v1/posts/1', {
   method: 'DELETE'
 })
 .then(res => {
   if (res.ok) console.log('Post deleted successfully');
 });
-
+```
 
 🔍 Advanced Usage
 
