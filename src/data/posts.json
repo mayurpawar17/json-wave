@@ -1,18 +1,602 @@
 [
   {
-    "id": 1,
     "userId": 1,
-    "title": "Getting started with Flutter",
-    "body": "Flutter is Google’s UI toolkit for building natively compiled applications.",
-    "tags": ["flutter", "mobile"],
-    "createdAt": "2025-01-10"
+    "id": 1,
+    "title": "Exploring the vibrant streets of Delhi's Chandni Chowk",
+    "body": "The narrow lanes, the aroma of street food, and the bustling energy of Chandni Chowk is something every Delhiite should experience at least once. From parathas at Paranthe Wali Gali to jalebis at Old Famous Jalebi Wala, this place is a food lover's paradise!"
   },
   {
-    "id": 2,
     "userId": 2,
-    "title": "Node.js for beginners",
-    "body": "Node.js allows you to run JavaScript on the server.",
-    "tags": ["nodejs", "backend"],
-    "createdAt": "2025-01-12"
+    "id": 2,
+    "title": "Monsoon magic in Mumbai",
+    "body": "There's something magical about Mumbai during monsoons. The city comes alive with lush greenery, the Arabian Sea looks breathtaking, and cutting chai tastes even better when it's raining outside. Just need to navigate through the waterlogged streets!"
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "Traditional Bengali Durga Pujo celebrations",
+    "body": "The sound of dhak, the smell of dhunuchi, and the sight of beautifully crafted pandals - Durga Pujo in Kolkata is not just a festival, it's an emotion. From cultural programs to food stalls, every moment is precious."
+  },
+  {
+    "userId": 4,
+    "id": 4,
+    "title": "Hyderabad's iconic Biryani experience",
+    "body": "Just had the most amazing Hyderabadi dum biryani at Paradise. The aroma, the flavors, the perfectly cooked meat - it's truly the king of biryanis. No wonder people travel from across the country just to taste it!"
+  },
+  {
+    "userId": 5,
+    "id": 5,
+    "title": "Bengaluru's tech park culture",
+    "body": "Working in Electronic City gives you a unique perspective on India's IT revolution. The campus-like offices, food courts with diverse cuisines, and the startup energy everywhere is truly inspiring."
+  },
+  {
+    "userId": 6,
+    "id": 6,
+    "title": "Chennai's filter coffee ritual",
+    "body": "There's nothing like starting your day with a strong filter coffee in a stainless steel tumbler. The unique brewing method and the perfect milk-to-coffee ratio makes it an art form that Chennaites have mastered."
+  },
+  {
+    "userId": 7,
+    "id": 7,
+    "title": "Jaipur's Pink City architecture",
+    "body": "Visited Hawa Mahal today and was mesmerized by the intricate lattice work. The pink sandstone architecture across the city tells stories of Rajputana valor and artistic excellence."
+  },
+  {
+    "userId": 8,
+    "id": 8,
+    "title": "Kerala's backwater houseboat experience",
+    "body": "Spent the day cruising through Alleppey's backwaters on a traditional houseboat. The tranquility, the coconut trees lining the banks, and the delicious Kerala sadya served on banana leaves made it unforgettable."
+  },
+  {
+    "userId": 9,
+    "id": 9,
+    "title": "Varanasi's spiritual Ganga Aarti",
+    "body": "Witnessed the evening Ganga Aarti at Dashashwamedh Ghat. The synchronized chanting, the rhythmic bells, and the thousands of diyas floating on the river created a spiritual experience that's hard to describe in words."
+  },
+  {
+    "userId": 10,
+    "id": 10,
+    "title": "Amritsar's Golden Temple Langar",
+    "body": "The community kitchen at Golden Temple serves free meals to 100,000 people daily. Volunteering there and serving food to people from all walks of life was a humbling experience that shows true seva."
+  },
+  {
+    "userId": 11,
+    "id": 11,
+    "title": "Goa's beach shack culture",
+    "body": "Nothing beats relaxing at a beach shack in North Goa with some fresh seafood and chilled beer. The laid-back vibe, live music, and sunset views make it the perfect escape from city life."
+  },
+  {
+    "userId": 12,
+    "id": 12,
+    "title": "Ahmedabad's Sunday morning kite festival",
+    "body": "During Uttarayan, the sky turns into a colorful canvas with thousands of kites. The sound of 'kai po che' echoes everywhere as people compete in kite battles from their terraces."
+  },
+  {
+    "userId": 13,
+    "id": 13,
+    "title": "Pune's educational hub vibe",
+    "body": "The energy around FC Road and JM Road with college students, bookstores, and cafes creates a unique intellectual atmosphere. Pune truly lives up to its reputation as the Oxford of the East."
+  },
+  {
+    "userId": 14,
+    "id": 14,
+    "title": "Lucknow's Chikankari embroidery",
+    "body": "Visited the chikankari workshops in Lucknow. The delicate hand embroidery that takes weeks to complete on a single piece is a testament to the city's rich textile heritage."
+  },
+  {
+    "userId": 15,
+    "id": 15,
+    "title": "Darjeeling's tea garden sunrise",
+    "body": "Woke up at 4 AM to watch the sunrise over Tiger Hill, followed by a visit to a tea estate. The first flush Darjeeling tea tasted heavenly while overlooking the rolling hills covered in tea bushes."
+  },
+  {
+    "userId": 16,
+    "id": 16,
+    "title": "Mysore Dasara festival grandeur",
+    "body": "The illuminated Mysore Palace during Dasara is a sight to behold. The cultural performances, procession, and the overall royal treatment of the festival keeps the Wadiyar legacy alive."
+  },
+  {
+    "userId": 17,
+    "id": 17,
+    "title": "Rajasthani folk music at Pushkar Fair",
+    "body": "The soulful melodies of Rajasthani folk singers, the colorful turbans, and the camel trading - Pushkar Fair is a cultural extravaganza that showcases Rajasthan's vibrant traditions."
+  },
+  {
+    "userId": 18,
+    "id": 18,
+    "title": "Sikkim's organic farming revolution",
+    "body": "Visited organic farms in Sikkim where they grow everything from cardamom to buckwheat. The state's commitment to 100% organic farming is inspiring and the produce tastes incredible."
+  },
+  {
+    "userId": 19,
+    "id": 19,
+    "title": "Coorg's coffee plantation stay",
+    "body": "Stayed at a homestay in Coorg surrounded by coffee plantations. Waking up to the aroma of coffee blossoms and learning about the processing from bean to cup was educational and refreshing."
+  },
+  {
+    "userId": 20,
+    "id": 20,
+    "title": "Rishikesh's yoga capital experience",
+    "body": "Attended a morning yoga session by the Ganges in Rishikesh. The combination of spiritual energy, clean air, and expert guidance makes it the perfect place for wellness and self-discovery."
+  },
+  {
+    "userId": 21,
+    "id": 21,
+    "title": "Mumbai's local train survival guide",
+    "body": "Navigating Mumbai locals during peak hours is an art form. From perfect timing to finding your 'regular spot', it's a daily adventure that teaches patience and resilience."
+  },
+  {
+    "userId": 22,
+    "id": 22,
+    "title": "Delhi's winter street food",
+    "body": "Nothing beats Delhi winters with hot paranthas, nihari, and rabri. The street food scene transforms completely with seasonal specialties that warm both body and soul."
+  },
+  {
+    "userId": 23,
+    "id": 23,
+    "title": "Kolkata's adda culture",
+    "body": "Spent hours at a College Street coffee house engaged in passionate discussions about everything from politics to poetry. Kolkata's adda culture keeps intellectual discourse alive."
+  },
+  {
+    "userId": 24,
+    "id": 24,
+    "title": "Hyderabad's pearl market shopping",
+    "body": "Bargaining for pearls at Laad Bazaar near Charminar is an experience in itself. The craftsmanship and variety available makes Hyderabad the pearl capital of India."
+  },
+  {
+    "userId": 25,
+    "id": 25,
+    "title": "Bengaluru's craft beer revolution",
+    "body": "The microbrewery scene in Bengaluru has transformed the city's nightlife. From IPAs to stouts, the craft beer culture here rivals any international city."
+  },
+  {
+    "userId": 26,
+    "id": 26,
+    "title": "Madurai's Meenakshi Temple architecture",
+    "body": "The towering gopurams of Meenakshi Temple with their thousands of colorful sculptures left me awestruck. Each figure tells a story from Hindu mythology."
+  },
+  {
+    "userId": 27,
+    "id": 27,
+    "title": "Udaipur's lake palace romance",
+    "body": "Boating on Lake Pichola with the City Palace and Lake Palace illuminated at night feels straight out of a fairy tale. Udaipur truly deserves its title as the most romantic city in India."
+  },
+  {
+    "userId": 28,
+    "id": 28,
+    "title": "Shillong's living root bridges",
+    "body": "Trekked to see the centuries-old living root bridges in Meghalaya. The ingenuity of the Khasi tribe in training rubber tree roots to form natural bridges is mind-blowing."
+  },
+  {
+    "userId": 29,
+    "id": 29,
+    "title": "Ahmedabad's Gandhi Ashram serenity",
+    "body": "Visited Sabarmati Ashram where Gandhi lived. The simplicity of his living quarters and the peaceful atmosphere makes you reflect on his teachings of non-violence."
+  },
+  {
+    "userId": 30,
+    "id": 30,
+    "title": "Puri's Rath Yatra spectacle",
+    "body": "Witnessed the grand Rath Yatra where millions pull the chariots of Jagannath. The devotion, the scale, and the ancient rituals make it one of India's largest religious gatherings."
+  },
+  {
+    "userId": 31,
+    "id": 31,
+    "title": "Ladakh's Pangong Lake beauty",
+    "body": "The changing colors of Pangong Lake from deep blue to emerald green as the day progresses is magical. The stark landscape and clear skies make it feel like another planet."
+  },
+  {
+    "userId": 32,
+    "id": 32,
+    "title": "Mumbai's Kala Ghoda Art Festival",
+    "body": "Spent the weekend exploring art installations, street performances, and workshops at Kala Ghoda. The city's thriving art scene gets a perfect platform through this annual festival."
+  },
+  {
+    "userId": 33,
+    "id": 33,
+    "title": "Delhi's Dilli Haat craftsmanship",
+    "body": "Dilli Haat brings artisans from across India under one roof. From Kashmiri pashminas to Rajasthani puppets, it's a treasure trove of traditional Indian handicrafts."
+  },
+  {
+    "userId": 34,
+    "id": 34,
+    "title": "Kochi's Chinese fishing nets",
+    "body": "Watching the cantilevered Chinese fishing nets at sunset in Fort Kochi is mesmerizing. This 14th-century fishing method still in use shows Kerala's multicultural history."
+  },
+  {
+    "userId": 35,
+    "id": 35,
+    "title": "Agra's Taj Mahal at sunrise",
+    "body": "Reached Taj Mahal before dawn to see the first rays of sun illuminate the marble. The play of light and the morning mist created an ethereal experience beyond words."
+  },
+  {
+    "userId": 36,
+    "id": 36,
+    "title": "Bengaluru's Cubbon Park Sunday",
+    "body": "Sunday mornings at Cubbon Park with book readings, yoga groups, and families picnicking shows the city's love for green spaces and community activities."
+  },
+  {
+    "userId": 37,
+    "id": 37,
+    "title": "Varanasi's morning boat ride",
+    "body": "Taking a boat ride on the Ganges at sunrise while priests perform morning rituals on the ghats gives you a deep sense of India's spiritual continuity."
+  },
+  {
+    "userId": 38,
+    "id": 38,
+    "title": "Jaisalmer's desert camping",
+    "body": "Spent the night in the Thar Desert under a sky filled with stars. The folk music, camel ride, and sleeping in traditional Swiss tents was an authentic Rajasthan experience."
+  },
+  {
+    "userId": 39,
+    "id": 39,
+    "title": "Mumbai's dabbawala system efficiency",
+    "body": "Studied the legendary dabbawala lunch delivery system. Their error rate of 1 in 16 million deliveries without using technology is a management marvel."
+  },
+  {
+    "userId": 40,
+    "id": 40,
+    "title": "Chennai's Marina Beach evenings",
+    "body": "Evening walks on Marina Beach, the second longest urban beach in the world, with street food stalls and families enjoying the breeze is Chennai's daily ritual."
+  },
+  {
+    "userId": 41,
+    "id": 41,
+    "title": "Kashmir's tulip garden bloom",
+    "body": "Visited Asia's largest tulip garden in Srinagar during spring. The vibrant colors against the backdrop of Dal Lake and Zabarwan mountains is breathtaking."
+  },
+  {
+    "userId": 42,
+    "id": 42,
+    "title": "Hyderabad's Ramzan food streets",
+    "body": "During Ramzan, the streets near Charminar come alive with food stalls serving haleem, kebabs, and phirni till late night. The festive atmosphere is infectious."
+  },
+  {
+    "userId": 43,
+    "id": 43,
+    "title": "Pune's Shaniwar Wada history",
+    "body": "Exploring the ruins of Shaniwar Wada and hearing stories of the Peshwa reign brings Maratha history to life. The light and sound show in the evening is particularly moving."
+  },
+  {
+    "userId": 44,
+    "id": 44,
+    "title": "Kolkata's tram journey nostalgia",
+    "body": "Took a slow tram ride through Kolkata's streets. The rhythmic clanging and vintage charm offers a peaceful alternative to the city's bustling traffic."
+  },
+  {
+    "userId": 45,
+    "id": 45,
+    "title": "Rajasthan's puppet show tradition",
+    "body": "Watched a traditional Rajasthani puppet show in Udaipur. The colorful puppets, folk tales, and live music keeps this ancient art form alive for new generations."
+  },
+  {
+    "userId": 46,
+    "id": 46,
+    "title": "Mumbai's CSMT architectural marvel",
+    "body": "Chhatrapati Shivaji Maharaj Terminus isn't just a railway station - it's a Victorian Gothic masterpiece. The detailed carvings and stained glass windows are worth admiring."
+  },
+  {
+    "userId": 47,
+    "id": 47,
+    "title": "Delhi's Qutub Minar complex",
+    "body": "Spent hours exploring the Qutub Minar complex. The blend of Afghan and Indian architecture, and the famous iron pillar that hasn't rusted in 1600 years is fascinating."
+  },
+  {
+    "userId": 48,
+    "id": 48,
+    "title": "Goa's Portuguese influence",
+    "body": "The whitewashed churches, colorful houses, and laid-back lifestyle in Goa's Latin quarters show the lasting Portuguese influence on Goan culture."
+  },
+  {
+    "userId": 49,
+    "id": 49,
+    "title": "Amritsar's Wagah Border ceremony",
+    "body": "The patriotic energy at Wagah Border during the beating retreat ceremony is electrifying. The synchronized marching and lowering of flags is a unique India-Pakistan tradition."
+  },
+  {
+    "userId": 50,
+    "id": 50,
+    "title": "Kerala's Kathakali performance",
+    "body": "Watched a Kathakali performance where artists spend hours on elaborate makeup. The facial expressions, hand gestures, and storytelling through dance is captivating."
+  },
+  {
+    "userId": 51,
+    "id": 51,
+    "title": "Mumbai's Bandra-Worli Sea Link drive",
+    "body": "Driving on the Bandra-Worli Sea Link at sunset with the city skyline on one side and the Arabian Sea on the other is one of Mumbai's most beautiful experiences."
+  },
+  {
+    "userId": 52,
+    "id": 52,
+    "title": "Delhi's Garden of Five Senses",
+    "body": "The Garden of Five Senses in Delhi with its thematic gardens, sculptures, and water features offers a peaceful retreat from the city's chaos."
+  },
+  {
+    "userId": 53,
+    "id": 53,
+    "title": "Kolkata's Howrah Bridge traffic",
+    "body": "Crossing Howrah Bridge during peak hours is an experience in itself. The sheer volume of vehicles and pedestrians moving in organized chaos is impressive."
+  },
+  {
+    "userId": 54,
+    "id": 54,
+    "title": "Hyderabad's Golconda Fort acoustics",
+    "body": "Clapped at the entrance of Golconda Fort and heard the echo clearly at the highest point. The ancient acoustic signaling system used to warn of attacks is brilliant."
+  },
+  {
+    "userId": 55,
+    "id": 55,
+    "title": "Bengaluru's Lalbagh flower show",
+    "body": "The biannual flower show at Lalbagh Botanical Garden displays incredible floral arrangements and rare plant species. The glass house modeled after London's Crystal Palace is stunning."
+  },
+  {
+    "userId": 56,
+    "id": 56,
+    "title": "Varanasi's silk weaving workshops",
+    "body": "Visited the narrow lanes where Banarasi silk sarees are handwoven. Seeing artisans work for months on a single saree with gold and silver threads shows why they're so precious."
+  },
+  {
+    "userId": 57,
+    "id": 57,
+    "title": "Jaipur's gemstone markets",
+    "body": "Johari Bazaar in Jaipur is a treasure trove for gemstone lovers. From emeralds to rubies, the expertise in cutting and polishing precious stones here is world-renowned."
+  },
+  {
+    "userId": 58,
+    "id": 58,
+    "title": "Mumbai's Elephanta Caves ferry",
+    "body": "Taking a ferry to Elephanta Island and exploring the rock-cut cave temples dedicated to Shiva gives you a glimpse of 5th-century Indian art and architecture."
+  },
+  {
+    "userId": 59,
+    "id": 59,
+    "title": "Delhi's Lotus Temple tranquility",
+    "body": "The Lotus Temple's architecture is as peaceful as its atmosphere. Sitting silently in the prayer hall with people from all faiths is a unique interfaith experience."
+  },
+  {
+    "userId": 60,
+    "id": 60,
+    "title": "Kochi's spice market aromas",
+    "body": "Walking through Mattancherry's spice markets fills your senses with the aromas of cardamom, pepper, and cinnamon. Kochi's history as a spice trading port comes alive here."
+  },
+  {
+    "userId": 61,
+    "id": 61,
+    "title": "Agra's Fatehpur Sikri grandeur",
+    "body": "Exploring the abandoned Mughal capital Fatehpur Sikri makes you imagine the grandeur of Akbar's court. The red sandstone architecture and planning are impressive."
+  },
+  {
+    "userId": 62,
+    "id": 62,
+    "title": "Bengaluru's tech startup meets",
+    "body": "Attended a startup networking event in Koramangala. The energy of young entrepreneurs discussing AI, blockchain, and sustainable solutions shows India's tech future."
+  },
+  {
+    "userId": 63,
+    "id": 63,
+    "title": "Rishikesh's river rafting adventure",
+    "body": "White water rafting on the Ganges in Rishikesh with the Himalayas as backdrop is both thrilling and scenic. Perfect combination of adventure and natural beauty."
+  },
+  {
+    "userId": 64,
+    "id": 64,
+    "title": "Mumbai's Sanjay Gandhi National Park",
+    "body": "Having a national park within city limits is Mumbai's unique privilege. Spotting deer and monkeys while hiking through forests with city views is surreal."
+  },
+  {
+    "userId": 65,
+    "id": 65,
+    "title": "Delhi's Hauz Khas village blend",
+    "body": "Hauz Khas perfectly blends medieval history with contemporary culture. The 13th-century complex next to trendy cafes and boutiques creates a unique urban experience."
+  },
+  {
+    "userId": 66,
+    "id": 66,
+    "title": "Kolkata's Victoria Memorial evenings",
+    "body": "Evening walks around Victoria Memorial with the white marble illuminated against the night sky is Kolkata's most romantic spot."
+  },
+  {
+    "userId": 67,
+    "id": 67,
+    "title": "Hyderabad's Hussain Sagar boating",
+    "body": "Boating on Hussain Sagar lake with the giant Buddha statue in the middle and city lights around is Hyderabad's perfect evening outing."
+  },
+  {
+    "userId": 68,
+    "id": 68,
+    "title": "Chennai's classical music season",
+    "body": "December in Chennai means the Margazhi music festival with Carnatic concerts happening across the city from early morning till late night."
+  },
+  {
+    "userId": 69,
+    "id": 69,
+    "title": "Udaipur's City Palace museum",
+    "body": "The City Palace museum displays centuries of Mewar royalty through weapons, paintings, and artifacts. The panoramic view of Lake Pichola from the palace is spectacular."
+  },
+  {
+    "userId": 70,
+    "id": 70,
+    "title": "Shillong's living culture at Don Bosco",
+    "body": "The Don Bosco Museum's seven floors dedicated to Northeast India's tribes, cultures, and traditions is an education in regional diversity."
+  },
+  {
+    "userId": 71,
+    "id": 71,
+    "title": "Ahmedabad's auto-rickshaw art",
+    "body": "The vibrant artwork on Ahmedabad's auto-rickshaws with mirrors, tassels, and paintings makes every ride a moving art exhibition."
+  },
+  {
+    "userId": 72,
+    "id": 72,
+    "title": "Puri's beach sunrise",
+    "body": "Watching the sunrise over the Bay of Bengal at Puri Beach while fishermen prepare their nets is a simple yet profound experience."
+  },
+  {
+    "userId": 73,
+    "id": 73,
+    "title": "Ladakh's monastic festivals",
+    "body": "Attended a monastic festival in Ladakh with cham dances, traditional music, and colorful masks. The blend of Buddhism and local traditions is unique."
+  },
+  {
+    "userId": 74,
+    "id": 74,
+    "title": "Mumbai's Koli fishing village",
+    "body": "Visiting the Koli fishing community in Worli gives you insight into Mumbai's original inhabitants and their sustainable fishing practices."
+  },
+  {
+    "userId": 75,
+    "id": 75,
+    "title": "Delhi's Jama Masjid Friday prayers",
+    "body": "The collective prayer at Jama Masjid with thousands of people creates a powerful sense of community and devotion."
+  },
+  {
+    "userId": 76,
+    "id": 76,
+    "title": "Kochi's Jewish synagogue",
+    "body": "The Paradesi Synagogue with its hand-painted Chinese tiles and Belgian chandeliers tells the story of Kerala's ancient Jewish community."
+  },
+  {
+    "userId": 77,
+    "id": 77,
+    "title": "Agra's Mehtab Bagh Taj view",
+    "body": "Watched the sunset behind Taj Mahal from Mehtab Bagh across the Yamuna. The reflection in the water and changing colors is magical."
+  },
+  {
+    "userId": 78,
+    "id": 78,
+    "title": "Bengaluru's Nandi Hills sunrise",
+    "body": "Driving up Nandi Hills before dawn to watch the sunrise over the Deccan Plateau is a weekend ritual for many Bengalureans."
+  },
+  {
+    "userId": 79,
+    "id": 79,
+    "title": "Varanasi's silk university",
+    "body": "Visited the Indian Institute of Handloom Technology where traditional weaving techniques are preserved and modernized for contemporary markets."
+  },
+  {
+    "userId": 80,
+    "id": 80,
+    "title": "Jaisalmer's Patwon Ki Haveli",
+    "body": "The intricate sandstone carvings and mirror work in Patwon Ki Haveli show the wealth and artistic skills of Jaisalmer's merchant families."
+  },
+  {
+    "userId": 81,
+    "id": 81,
+    "title": "Mumbai's Chor Bazaar treasure hunt",
+    "body": "Searching for vintage treasures at Chor Bazaar - from antique furniture to Bollywood memorabilia - is like a historical scavenger hunt."
+  },
+  {
+    "userId": 82,
+    "id": 82,
+    "title": "Chennai's Kapaleeshwarar Temple rituals",
+    "body": "Witnessing the daily rituals and ceremonies at the ancient Kapaleeshwarar Temple gives you deep insight into Tamil Hindu traditions."
+  },
+  {
+    "userId": 83,
+    "id": 83,
+    "title": "Kashmir's shikara ride on Dal Lake",
+    "body": "Floating in a shikara on Dal Lake with floating gardens and houseboats around feels like being in a different world."
+  },
+  {
+    "userId": 84,
+    "id": 84,
+    "title": "Hyderabad's Salar Jung Museum",
+    "body": "The Salar Jung Museum's collection of art, manuscripts, and artifacts from around the world shows the Nizam's global tastes and wealth."
+  },
+  {
+    "userId": 85,
+    "id": 85,
+    "title": "Pune's Aga Khan Palace history",
+    "body": "The Aga Khan Palace where Gandhi was imprisoned during Quit India Movement has become a place for reflection on India's freedom struggle."
+  },
+  {
+    "userId": 86,
+    "id": 86,
+    "title": "Kolkata's Indian Coffee House debates",
+    "body": "The Indian Coffee House on College Street is where political debates, literary discussions, and revolutionary ideas have brewed for decades."
+  },
+  {
+    "userId": 87,
+    "id": 87,
+    "title": "Rajasthan's blue pottery",
+    "body": "Watching artisans create blue pottery in Jaipur using Persian techniques adapted with local materials is witnessing a beautiful cultural fusion."
+  },
+  {
+    "userId": 88,
+    "id": 88,
+    "title": "Mumbai's Afghan Church architecture",
+    "body": "The stained glass and memorial plaques at Afghan Church in Navy Nagar tell stories of British Indian Army soldiers from the 19th century."
+  },
+  {
+    "userId": 89,
+    "id": 89,
+    "title": "Delhi's Nizamuddin Dargah qawwali",
+    "body": "Thursday evenings at Nizamuddin Dargah with soul-stirring qawwali performances create a spiritual atmosphere that transcends religion."
+  },
+  {
+    "userId": 90,
+    "id": 90,
+    "title": "Goa's spice plantation tour",
+    "body": "Walking through a Goan spice plantation learning about medicinal uses of various spices while tasting fresh produce is both educational and delicious."
+  },
+  {
+    "userId": 91,
+    "id": 91,
+    "title": "Amritsar's partition museum",
+    "body": "The Partition Museum documents the trauma and resilience during India's partition. Personal stories and artifacts make history deeply personal."
+  },
+  {
+    "userId": 92,
+    "id": 92,
+    "title": "Kerala's snake boat races",
+    "body": "Watching the adrenaline-pumping snake boat races during Onam with synchronized rowing and cheering crowds is Kerala's sporting tradition at its best."
+  },
+  {
+    "userId": 93,
+    "id": 93,
+    "title": "Mumbai's Dhobi Ghat laundry",
+    "body": "Seeing hundreds of dhobis washing clothes in open-air concrete wash pens at Dhobi Ghat is both a visual spectacle and a lesson in organized labor."
+  },
+  {
+    "userId": 94,
+    "id": 94,
+    "title": "Delhi's Sunder Nursery restoration",
+    "body": "The recently restored Sunder Nursery with Mughal-era monuments, native plants, and walking trails is Delhi's new urban oasis."
+  },
+  {
+    "userId": 95,
+    "id": 95,
+    "title": "Kolkata's tram museum",
+    "body": "The tram museum at Esplanade shows Kolkata's century-old love affair with trams through vintage models and historical photographs."
+  },
+  {
+    "userId": 96,
+    "id": 96,
+    "title": "Hyderabad's IT corridor growth",
+    "body": "Watching Hyderabad's HITEC City transform from barren land to a thriving IT hub shows India's rapid technological advancement."
+  },
+  {
+    "userId": 97,
+    "id": 97,
+    "title": "Bengaluru's aviation museum",
+    "body": "The HAL Aviation Museum with vintage aircraft and aerospace technology displays India's journey in aviation and space exploration."
+  },
+  {
+    "userId": 98,
+    "id": 98,
+    "title": "Varanasi's Banaras Hindu University",
+    "body": "Walking through the sprawling campus of BHU with its mix of ancient Indian and colonial architecture shows modern India's educational aspirations."
+  },
+  {
+    "userId": 99,
+    "id": 99,
+    "title": "Jaipur's astronomical observatory",
+    "body": "Jantar Mantar's massive astronomical instruments built in the 18th century still accurately measure time and celestial movements."
+  },
+  {
+    "userId": 100,
+    "id": 100,
+    "title": "Mumbai's street art in Bandra",
+    "body": "Exploring the colorful street art in Bandra's lanes turns a regular walk into an urban art gallery experience showcasing local talent."
   }
 ]

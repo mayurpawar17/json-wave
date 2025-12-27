@@ -1,9 +1,702 @@
 [
   {
-    "id": 1,
     "postId": 1,
-    "userId": 2,
-    "body": "Very helpful article!",
-    "createdAt": "2025-01-11"
+    "id": 1,
+    "name": "Rahul Verma",
+    "email": "rahul.verma@example.in",
+    "body": "Chandni Chowk is indeed magical! Have you tried the Bedmi Puri with aloo sabzi near Jama Masjid? It's heavenly!"
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.in",
+    "body": "Don't forget to mention the traffic chaos though! But yes, the food makes it all worth it."
+  },
+  {
+    "postId": 1,
+    "id": 3,
+    "name": "Amit Patel",
+    "email": "amit.patel@example.in",
+    "body": "As a Delhiite born and brought up here, I can confirm this is 100% accurate. The energy is unmatchable!"
+  },
+  {
+    "postId": 2,
+    "id": 4,
+    "name": "Sneha Nair",
+    "email": "sneha.nair@example.in",
+    "body": "Mumbai rains are beautiful but the potholes! My scooter has suffered so much damage this monsoon season."
+  },
+  {
+    "postId": 2,
+    "id": 5,
+    "name": "Raj Malhotra",
+    "email": "raj.malhotra@example.in",
+    "body": "The best part is vada pav in the rains! Standing at a stall with hot chai and spicy vada pav - pure bliss!"
+  },
+  {
+    "postId": 3,
+    "id": 6,
+    "name": "Ananya Chatterjee",
+    "email": "ananya.chatterjee@example.in",
+    "body": "You captured the essence perfectly! Pujo is not a festival, it's a feeling that every Bengali carries in their heart."
+  },
+  {
+    "postId": 3,
+    "id": 7,
+    "name": "Debashish Roy",
+    "email": "debashish.roy@example.in",
+    "body": "The pandal hopping, the new clothes, the bhog - miss my Kolkata Pujos so much now that I'm abroad!"
+  },
+  {
+    "postId": 4,
+    "id": 8,
+    "name": "Mohammed Ali",
+    "email": "mohammed.ali@example.in",
+    "body": "As a Hyderabadi, I'd recommend trying biryani at smaller joints too. The real magic is often in the hidden gems!"
+  },
+  {
+    "postId": 4,
+    "id": 9,
+    "name": "Sunita Reddy",
+    "email": "sunita.reddy@example.in",
+    "body": "Pro tip: Always go for the mutton dum biryani. And don't forget the mirchi ka salan on the side!"
+  },
+  {
+    "postId": 5,
+    "id": 10,
+    "name": "Karthik Iyer",
+    "email": "karthik.iyer@example.in",
+    "body": "Electronic City traffic though! Takes 2 hours to cover 10km during peak hours. But yes, the campus vibe is great."
+  },
+  {
+    "postId": 6,
+    "id": 11,
+    "name": "Lakshmi Narayanan",
+    "email": "lakshmi.narayanan@example.in",
+    "body": "Filter coffee is life! My day doesn't start without my two cups of strong kaapi. Nothing beats South Indian filter coffee."
+  },
+  {
+    "postId": 6,
+    "id": 12,
+    "name": "Venkatesh Prasad",
+    "email": "venkatesh.prasad@example.in",
+    "body": "The sound of the coffee dripping early morning is so therapeutic. And the aroma fills the entire house!"
+  },
+  {
+    "postId": 7,
+    "id": 13,
+    "name": "Divya Singh",
+    "email": "divya.singh@example.in",
+    "body": "Jaipur's architecture is breathtaking! The City Palace and Jantar Mantar are equally impressive. Rajasthan has such rich history."
+  },
+  {
+    "postId": 8,
+    "id": 14,
+    "name": "Thomas Mathew",
+    "email": "thomas.mathew@example.in",
+    "body": "Kerala backwaters during monsoon are a different kind of beautiful. Everything is so green and fresh!"
+  },
+  {
+    "postId": 8,
+    "id": 15,
+    "name": "Anjali Menon",
+    "email": "anjali.menon@example.in",
+    "body": "Don't forget the karimeen pollichathu (pearl spot fish) they serve on houseboats. It's to die for!"
+  },
+  {
+    "postId": 9,
+    "id": 16,
+    "name": "Harish Kumar",
+    "email": "harish.kumar@example.in",
+    "body": "Varanasi changes you. There's something about that city that touches your soul. No other place like it in the world."
+  },
+  {
+    "postId": 10,
+    "id": 17,
+    "name": "Gurpreet Singh",
+    "email": "gurpreet.singh@example.in",
+    "body": "The langar seva is truly humbling. Serving food to thousands without discrimination - that's the real spirit of Sikhism."
+  },
+  {
+    "postId": 11,
+    "id": 18,
+    "name": "Fernandes Family",
+    "email": "fernandes.family@example.in",
+    "body": "Goan here! Our beach shacks have the freshest seafood. Try the butter garlic crab and kingfish curry!"
+  },
+  {
+    "postId": 12,
+    "id": 19,
+    "name": "Jignesh Patel",
+    "email": "jignesh.patel@example.in",
+    "body": "Uttarayan in Ahmedabad is the best! Whole city on rooftops, music blasting, and the sky filled with kites. Magical!"
+  },
+  {
+    "postId": 13,
+    "id": 20,
+    "name": "Rohan Deshpande",
+    "email": "rohan.deshpande@example.in",
+    "body": "Pune's FC Road chai and bun maska! Can't beat that combination. And the bookstores there have such rare finds."
+  },
+  {
+    "postId": 14,
+    "id": 21,
+    "name": "Farhan Ahmed",
+    "email": "farhan.ahmed@example.in",
+    "body": "Lucknow's chikankari is exquisite but getting expensive. The real artisans are struggling against machine-made copies."
+  },
+  {
+    "postId": 15,
+    "id": 22,
+    "name": "Pradip Chettri",
+    "email": "pradip.chettri@example.in",
+    "body": "Darjeeling tea from the first flush is the best! The flavor is so delicate and floral. Worth every rupee."
+  },
+  {
+    "postId": 16,
+    "id": 23,
+    "name": "Meena Rao",
+    "email": "meena.rao@example.in",
+    "body": "Mysore Dasara is regal! The procession with decorated elephants is a sight to behold. Karnataka's pride!"
+  },
+  {
+    "postId": 17,
+    "id": 24,
+    "name": "Kavita Sharma",
+    "email": "kavita.sharma@example.in",
+    "body": "Pushkar Fair is getting too commercial now. But the camel trading and folk music are still authentic."
+  },
+  {
+    "postId": 18,
+    "id": 25,
+    "name": "Tenzin Bhutia",
+    "email": "tenzin.bhutia@example.in",
+    "body": "Sikkim's organic farming should be replicated across India. Our health and environment both benefit from it."
+  },
+  {
+    "postId": 19,
+    "id": 26,
+    "name": "Maria D'Souza",
+    "email": "maria.dsouza@example.in",
+    "body": "Coorg coffee has such a distinct flavor! The pepper and cardamom grown there are equally amazing."
+  },
+  {
+    "postId": 20,
+    "id": 27,
+    "name": "Yogesh Tiwari",
+    "email": "yogesh.tiwari@example.in",
+    "body": "Rishikesh changed my life. Did a 10-day yoga course there and came back a different person. Highly recommend!"
+  },
+  {
+    "postId": 21,
+    "id": 28,
+    "name": "Sanjay Mehta",
+    "email": "sanjay.mehta@example.in",
+    "body": "Mumbai local trains: Where you learn patience, balance, and the art of squeezing into impossible spaces!"
+  },
+  {
+    "postId": 22,
+    "id": 29,
+    "name": "Neha Gupta",
+    "email": "neha.gupta@example.in",
+    "body": "Delhi winters = Paranthe + gajar ka halwa + gur rewari. Food heaven for three months!"
+  },
+  {
+    "postId": 23,
+    "id": 30,
+    "name": "Arindam Bose",
+    "email": "arindam.bose@example.in",
+    "body": "Coffee House addas are where Kolkata's intellectual pulse beats. So many revolutionary ideas born there!"
+  },
+  {
+    "postId": 24,
+    "id": 31,
+    "name": "Asif Khan",
+    "email": "asif.khan@example.in",
+    "body": "Laad Bazaar pearls - always bargain for at least 40% off the quoted price. They expect you to negotiate!"
+  },
+  {
+    "postId": 25,
+    "id": 32,
+    "name": "Nikhil Shetty",
+    "email": "nikhil.shetty@example.in",
+    "body": "Bangalore's craft beer scene is amazing! Toit, Arbor, and Biere Club are my favorites. Great IPA selections."
+  },
+  {
+    "postId": 26,
+    "id": 33,
+    "name": "Geetha Lakshmi",
+    "email": "geetha.lakshmi@example.in",
+    "body": "Madurai temple's morning and evening rituals are mesmerizing. The fragrance of flowers and camphor is divine."
+  },
+  {
+    "postId": 27,
+    "id": 34,
+    "name": "Rekha Jain",
+    "email": "rekha.jain@example.in",
+    "body": "Udaipur is where we went for our honeymoon. Lake Pichola at sunset is the most romantic sight in India."
+  },
+  {
+    "postId": 28,
+    "id": 35,
+    "name": "David Sangma",
+    "email": "david.sangma@example.in",
+    "body": "Living root bridges show how humans can work with nature instead of against it. Traditional wisdom at its best."
+  },
+  {
+    "postId": 29,
+    "id": 36,
+    "name": "Vikram Joshi",
+    "email": "vikram.joshi@example.in",
+    "body": "Sabarmati Ashram's simplicity is its strength. Gandhiji's charkha and writing desk tell more than any biography."
+  },
+  {
+    "postId": 30,
+    "id": 37,
+    "name": "Subhash Mishra",
+    "email": "subhash.mishra@example.in",
+    "body": "Rath Yatra's scale is unimaginable until you see it. Millions of devotees, yet everything is so organized."
+  },
+  {
+    "postId": 31,
+    "id": 38,
+    "name": "Tashi Dorje",
+    "email": "tashi.dorje@example.in",
+    "body": "Pangong Lake's beauty is beyond photos. The silence there is profound. Ladakh heals you in ways you can't explain."
+  },
+  {
+    "postId": 32,
+    "id": 39,
+    "name": "Radhika Kapoor",
+    "email": "radhika.kapoor@example.in",
+    "body": "Kala Ghoda festival brings out Mumbai's creative side. The street art installations are particularly impressive."
+  },
+  {
+    "postId": 33,
+    "id": 40,
+    "name": "Anil Khanna",
+    "email": "anil.khanna@example.in",
+    "body": "Dilli Haat is perfect for authentic handicrafts. Each state's pavilion gives you a glimpse of their art forms."
+  },
+  {
+    "postId": 34,
+    "id": 41,
+    "name": "Susan George",
+    "email": "susan.george@example.in",
+    "body": "Fort Kochi's multicultural history is fascinating. Jewish synagogue, Portuguese churches, Dutch houses - all in one area!"
+  },
+  {
+    "postId": 35,
+    "id": 42,
+    "name": "Aakash Singh",
+    "email": "aakash.singh@example.in",
+    "body": "Taj Mahal at sunrise: less crowded, perfect light for photos, and the morning mist adds to the romance. Best time to visit."
+  },
+  {
+    "postId": 36,
+    "id": 43,
+    "name": "Shruti Reddy",
+    "email": "shruti.reddy@example.in",
+    "body": "Cubbon Park on Sunday mornings is Bangalore's lungs. The puppet shows for kids and book readings are lovely."
+  },
+  {
+    "postId": 37,
+    "id": 44,
+    "name": "Mohan Das",
+    "email": "mohan.das@example.in",
+    "body": "Morning boat ride in Varanasi shows life and death coexisting on the ghats. A deeply philosophical experience."
+  },
+  {
+    "postId": 38,
+    "id": 45,
+    "name": "Kunal Rathore",
+    "email": "kunal.rathore@example.in",
+    "body": "Jaisalmer desert camping: The stars at night! I've never seen so many stars in my life. Felt like I could touch them."
+  },
+  {
+    "postId": 39,
+    "id": 46,
+    "name": "Deepak Sharma",
+    "email": "deepak.sharma@example.in",
+    "body": "Dabbawalas are Mumbai's pride. Six sigma efficiency without technology! Business schools should study them more."
+  },
+  {
+    "postId": 40,
+    "id": 47,
+    "name": "Vijayalakshmi",
+    "email": "vijayalakshmi@example.in",
+    "body": "Marina Beach evening walks with murukku and bajji stalls - Chennai's simple pleasures are the best."
+  },
+  {
+    "postId": 41,
+    "id": 48,
+    "name": "Iqbal Wani",
+    "email": "iqbal.wani@example.in",
+    "body": "Kashmir tulip garden in April is paradise on earth. The colors against the snow-capped mountains - breathtaking!"
+  },
+  {
+    "postId": 42,
+    "id": 49,
+    "name": "Zubair Ahmed",
+    "email": "zubair.ahmed@example.in",
+    "body": "Hyderabad haleem during Ramzan is the best! The 8-hour slow cooking process makes it so rich and flavorful."
+  },
+  {
+    "postId": 43,
+    "id": 50,
+    "name": "Shivaji Desai",
+    "email": "shivaji.desai@example.in",
+    "body": "Shaniwar Wada's light show tells Maratha history so dramatically. Gives you goosebumps!"
+  },
+  {
+    "postId": 44,
+    "id": 51,
+    "name": "Biswajit Mukherjee",
+    "email": "biswajit.mukherjee@example.in",
+    "body": "Kolkata trams - slow, inefficient, but full of charm. Hope they never replace them with metros completely."
+  },
+  {
+    "postId": 45,
+    "id": 52,
+    "name": "Manoj Meena",
+    "email": "manoj.meena@example.in",
+    "body": "Rajasthani puppet shows keep our folk tales alive. The stories of Amar Singh Rathore and Panna Dhai are my favorite."
+  },
+  {
+    "postId": 46,
+    "id": 53,
+    "name": "Fatima Sheikh",
+    "email": "fatima.sheikh@example.in",
+    "body": "CSMT architecture is stunning! The details on the façade tell so many stories. UNESCO heritage for a reason."
+  },
+  {
+    "postId": 47,
+    "id": 54,
+    "name": "Ravi Thakur",
+    "email": "ravi.thakur@example.in",
+    "body": "Qutub Minar's iron pillar that hasn't rusted in centuries - ancient Indian metallurgy was so advanced!"
+  },
+  {
+    "postId": 48,
+    "id": 55,
+    "name": "Jason D'Costa",
+    "email": "jason.dcosta@example.in",
+    "body": "Goan Portuguese houses with those large windows and balconies - perfect for the sea breeze. Architecture adapted to climate."
+  },
+  {
+    "postId": 49,
+    "id": 56,
+    "name": "Balwinder Singh",
+    "email": "balwinder.singh@example.in",
+    "body": "Wagah Border ceremony's energy is electric! The cheering, the marching, the flags - fills you with patriotism."
+  },
+  {
+    "postId": 50,
+    "id": 57,
+    "name": "Leela Nambiar",
+    "email": "leela.nambiar@example.in",
+    "body": "Kathakali artists' dedication is incredible. 3-4 hours just for makeup before the performance! True artists."
+  },
+  {
+    "postId": 51,
+    "id": 58,
+    "name": "Rohan Pillai",
+    "email": "rohan.pillai@example.in",
+    "body": "Sea Link toll is expensive but that view at sunset is priceless. Best drive in Mumbai!"
+  },
+  {
+    "postId": 52,
+    "id": 59,
+    "name": "Nisha Arora",
+    "email": "nisha.arora@example.in",
+    "body": "Garden of Five Senses is Delhi's hidden gem. Perfect for morning walks and photography."
+  },
+  {
+    "postId": 53,
+    "id": 60,
+    "name": "Sourav Ganguly",
+    "email": "sourav.ganguly@example.in",
+    "body": "Howrah Bridge traffic is chaos theory in action! Somehow it all works though. Kolkata's lifeline."
+  },
+  {
+    "postId": 54,
+    "id": 61,
+    "name": "Sultan Qureshi",
+    "email": "sultan.qureshi@example.in",
+    "body": "Golconda Fort's acoustics engineering was brilliant for its time. Clap at the entrance, hear it at the top!"
+  },
+  {
+    "postId": 55,
+    "id": 62,
+    "name": "Manjunath Gowda",
+    "email": "manjunath.gowda@example.in",
+    "body": "Lalbagh flower show during Republic Day is spectacular. The floral models of monuments are so detailed."
+  },
+  {
+    "postId": 56,
+    "id": 63,
+    "name": "Rajni Pandey",
+    "email": "rajni.pandey@example.in",
+    "body": "Banarasi silk weavers are struggling. We need to support handloom more to preserve this ancient art."
+  },
+  {
+    "postId": 57,
+    "id": 64,
+    "name": "Pramod Agarwal",
+    "email": "pramod.agarwal@example.in",
+    "body": "Jaipur's gem cutting industry is world famous. The precision and skill is passed down through generations."
+  },
+  {
+    "postId": 58,
+    "id": 65,
+    "name": "Anita D'Souza",
+    "email": "anita.dsouza@example.in",
+    "body": "Elephanta Caves ferry ride can be rough during monsoon but the caves are worth it. The Shiva sculptures are magnificent."
+  },
+  {
+    "postId": 59,
+    "id": 66,
+    "name": "Farida Khan",
+    "email": "farida.khan@example.in",
+    "body": "Lotus Temple's silence is powerful. No sermons, no rituals - just peace and quiet for meditation."
+  },
+  {
+    "postId": 60,
+    "id": 67,
+    "name": "Antony Varghese",
+    "email": "antony.varghese@example.in",
+    "body": "Kochi spice markets - the aromas are intoxicating! Black pepper, cardamom, cloves - nature's pharmacy."
+  },
+  {
+    "postId": 61,
+    "id": 68,
+    "name": "Salma Begum",
+    "email": "salma.begum@example.in",
+    "body": "Fatehpur Sikri's Buland Darwaza is awe-inspiring. The inscription about Akbar's victory is so grand."
+  },
+  {
+    "postId": 62,
+    "id": 69,
+    "name": "Arun Kumar",
+    "email": "arun.kumar@example.in",
+    "body": "Bangalore startup meets are where tomorrow's unicorns are born. The energy and ideas are contagious!"
+  },
+  {
+    "postId": 63,
+    "id": 70,
+    "name": "Aditya Nair",
+    "email": "aditya.nair@example.in",
+    "body": "Rishikesh river rafting - the rapids are thrilling! Shiva Beach is the perfect place to relax after."
+  },
+  {
+    "postId": 64,
+    "id": 71,
+    "name": "Rina Mehta",
+    "email": "rina.mehta@example.in",
+    "body": "Sanjay Gandhi National Park's Kanheri Caves are historical treasures. Buddhist meditation caves in Mumbai!"
+  },
+  {
+    "postId": 65,
+    "id": 72,
+    "name": "Kabir Sharma",
+    "email": "kabir.sharma@example.in",
+    "body": "Hauz Khas - ancient water tank, deer park, and hip cafes all together. Only in Delhi!"
+  },
+  {
+    "postId": 66,
+    "id": 73,
+    "name": "Tania Sen",
+    "email": "tania.sen@example.in",
+    "body": "Victoria Memorial lawns in winter are perfect for picnics. The flower shows inside are beautiful too."
+  },
+  {
+    "postId": 67,
+    "id": 74,
+    "name": "Srinivas Rao",
+    "email": "srinivas.rao@example.in",
+    "body": "Hussain Sagar Buddha statue looks so peaceful. Best viewed from Necklace Road during evenings."
+  },
+  {
+    "postId": 68,
+    "id": 75,
+    "name": "Kamala Iyer",
+    "email": "kamala.iyer@example.in",
+    "body": "Chennai December music season - from 6 AM concerts to midnight performances. Music lovers' paradise!"
+  },
+  {
+    "postId": 69,
+    "id": 76,
+    "name": "Pratap Singh",
+    "email": "pratap.singh@example.in",
+    "body": "Udaipur City Palace's crystal gallery is stunning. The Nizam of Hyderabad wanted to buy it but couldn't afford it!"
+  },
+  {
+    "postId": 70,
+    "id": 77,
+    "name": "Ningthoujam Singh",
+    "email": "ningthoujam.singh@example.in",
+    "body": "Don Bosco Museum is Northeast India in one building. Every floor is a different state's culture. Must visit!"
+  },
+  {
+    "postId": 71,
+    "id": 78,
+    "name": "Jaya Ben",
+    "email": "jaya.ben@example.in",
+    "body": "Ahmedabad auto decorations are so colorful! Each driver tries to outdo the other. Moving art galleries!"
+  },
+  {
+    "postId": 72,
+    "id": 79,
+    "name": "Bijay Mohanty",
+    "email": "bijay.mohanty@example.in",
+    "body": "Puri Beach sunrise with fishermen casting nets - picture perfect. The chai from beach shacks tastes better too."
+  },
+  {
+    "postId": 73,
+    "id": 80,
+    "name": "Dolma Yangchen",
+    "email": "dolma.yangchen@example.in",
+    "body": "Ladakh monastic festivals - the mask dances represent demons being conquered by Buddhism. So symbolic."
+  },
+  {
+    "postId": 74,
+    "id": 81,
+    "name": "Mahesh Koli",
+    "email": "mahesh.koli@example.in",
+    "body": "Koli community has been fishing here for generations. Our fishing techniques are sustainable and traditional."
+  },
+  {
+    "postId": 75,
+    "id": 82,
+    "name": "Abdul Rahim",
+    "email": "abdul.rahim@example.in",
+    "body": "Jama Masjid Friday prayers - thousands praying together is a powerful sight. The unity is beautiful."
+  },
+  {
+    "postId": 76,
+    "id": 83,
+    "name": "Esther Cohen",
+    "email": "esther.cohen@example.in",
+    "body": "Kochi Jewish community is almost gone now. The synagogue is maintained so well though. History preserved."
+  },
+  {
+    "postId": 77,
+    "id": 84,
+    "name": "Anjali Mathur",
+    "email": "anjali.mathur@example.in",
+    "body": "Mehtab Bagh view is better than from Taj itself! You get the complete picture with Yamuna in front."
+  },
+  {
+    "postId": 78,
+    "id": 85,
+    "name": "Ramesh Gowda",
+    "email": "ramesh.gowda@example.in",
+    "body": "Nandi Hills sunrise - worth waking up at 4 AM! The fog rolling over the hills is magical."
+  },
+  {
+    "postId": 79,
+    "id": 86,
+    "name": "Vinod Pandey",
+    "email": "vinod.pandey@example.in",
+    "body": "Varanasi silk weaving needs more government support. These skills are our cultural heritage."
+  },
+  {
+    "postId": 80,
+    "id": 87,
+    "name": "Mohan Lal",
+    "email": "mohan.lal@example.in",
+    "body": "Patwon Ki Haveli's jharokhas (balconies) are architectural marvels. Each one differently carved."
+  },
+  {
+    "postId": 81,
+    "id": 88,
+    "name": "Roshan Ali",
+    "email": "roshan.ali@example.in",
+    "body": "Chor Bazaar's antique typewriters and cameras collection is amazing. Vintage lovers' paradise!"
+  },
+  {
+    "postId": 82,
+    "id": 89,
+    "name": "Gopalakrishnan",
+    "email": "gopalakrishnan@example.in",
+    "body": "Kapaleeshwarar Temple's gopuram sculptures tell entire epics. Each figure has a story from mythology."
+  },
+  {
+    "postId": 83,
+    "id": 90,
+    "name": "Bashir Ahmed",
+    "email": "bashir.ahmed@example.in",
+    "body": "Dal Lake shikara ride with kangri (fire pot) in winter - so cozy! The lake looks different in every season."
+  },
+  {
+    "postId": 84,
+    "id": 91,
+    "name": "Rehana Sultana",
+    "email": "rehana.sultana@example.in",
+    "body": "Salar Jung Museum's veiled Rebecca statue is mesmerizing. The marble looks like transparent cloth!"
+  },
+  {
+    "postId": 85,
+    "id": 92,
+    "name": "Shivaji Rao",
+    "email": "shivaji.rao@example.in",
+    "body": "Aga Khan Palace's Gandhi memorabilia is moving. His charkha, letters, even his ashes were kept here."
+  },
+  {
+    "postId": 86,
+    "id": 93,
+    "name": "Bikram Das",
+    "email": "bikram.das@example.in",
+    "body": "College Street Coffee House debates have shaped Bengal's politics and literature for decades. Intellectual hub."
+  },
+  {
+    "postId": 87,
+    "id": 94,
+    "name": "Madhu Jain",
+    "email": "madhu.jain@example.in",
+    "body": "Jaipur blue pottery's Persian motifs with Indian colors - perfect cultural fusion. Makes beautiful home decor."
+  },
+  {
+    "postId": 88,
+    "id": 95,
+    "name": "Peter D'Silva",
+    "email": "peter.dsilva@example.in",
+    "body": "Afghan Church's stained glass is imported from England. The memorials tell stories of long-forgotten battles."
+  },
+  {
+    "postId": 89,
+    "id": 96,
+    "name": "Yusuf Khan",
+    "email": "yusuf.khan@example.in",
+    "body": "Nizamuddin qawwali - the faith in those voices gives you goosebumps. Spiritual experience beyond religion."
+  },
+  {
+    "postId": 90,
+    "id": 97,
+    "name": "Lavina Menezes",
+    "email": "lavina.menezes@example.in",
+    "body": "Goa spice plantations - they grow vanilla, nutmeg, cinnamon all together. The guided tours are so informative."
+  },
+  {
+    "postId": 91,
+    "id": 98,
+    "name": "Harpreet Kaur",
+    "email": "harpreet.kaur@example.in",
+    "body": "Partition Museum's personal stories make history real. Letters, photographs, jewelry - each item has a journey."
+  },
+  {
+    "postId": 92,
+    "id": 99,
+    "name": "Vishnu Namboodiri",
+    "email": "vishnu.namboodiri@example.in",
+    "body": "Kerala snake boat races - 100 rowers in perfect sync! The energy and teamwork is incredible."
+  },
+  {
+    "postId": 93,
+    "id": 100,
+    "name": "Dinesh Yadav",
+    "email": "dinesh.yadav@example.in",
+    "body": "Dhobi Ghat is Mumbai's largest open-air laundry. The rhythm of clothes being beaten clean is almost musical."
   }
 ]
