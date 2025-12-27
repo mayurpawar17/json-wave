@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Getting started with Flutter",
+    "body": "Flutter is Google’s UI toolkit for building natively compiled applications.",
+    "tags": ["flutter", "mobile"],
+    "createdAt": "2025-01-10"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "title": "Node.js for beginners",
+    "body": "Node.js allows you to run JavaScript on the server.",
+    "tags": ["nodejs", "backend"],
+    "createdAt": "2025-01-12"
+  }
+]

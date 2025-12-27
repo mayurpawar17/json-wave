@@ -1,0 +1,2302 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "username": "aarav_s",
+    "email": "aarav.sharma@example.in",
+    "address": {
+      "street": "MG Road",
+      "suite": "Flat No. 12B",
+      "city": "Bengaluru",
+      "zipcode": "560001",
+      "geo": {
+        "lat": "12.9716",
+        "lng": "77.5946"
+      }
+    },
+    "phone": "+91-9876543210",
+    "website": "aaravsharma.in",
+    "company": {
+      "name": "Sharma Tech Solutions",
+      "catchPhrase": "Innovative cloud-native applications",
+      "bs": "empower digital transformation"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "username": "priya_p",
+    "email": "priya.patel@example.in",
+    "address": {
+      "street": "C.G. Road",
+      "suite": "A-304, Shanti Apartments",
+      "city": "Ahmedabad",
+      "zipcode": "380009",
+      "geo": {
+        "lat": "23.0225",
+        "lng": "72.5714"
+      }
+    },
+    "phone": "+91-9876543211",
+    "website": "priyapatel.com",
+    "company": {
+      "name": "Patel Pharmaceuticals",
+      "catchPhrase": "Your health, our priority",
+      "bs": "revolutionizing healthcare access"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rohan Singh",
+    "username": "rohan_s",
+    "email": "rohan.singh@example.in",
+    "address": {
+      "street": "Connaught Place",
+      "suite": "Office No. 45",
+      "city": "New Delhi",
+      "zipcode": "110001",
+      "geo": {
+        "lat": "28.6333",
+        "lng": "77.2167"
+      }
+    },
+    "phone": "+91-9876543212",
+    "website": "rohansingh.co.in",
+    "company": {
+      "name": "Singh Financial Services",
+      "catchPhrase": "Secure your financial future",
+      "bs": "simplifying wealth management"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ananya Reddy",
+    "username": "ananya_r",
+    "email": "ananya.reddy@example.in",
+    "address": {
+      "street": "Banjara Hills",
+      "suite": "Villa No. 7",
+      "city": "Hyderabad",
+      "zipcode": "500034",
+      "geo": {
+        "lat": "17.3850",
+        "lng": "78.4867"
+      }
+    },
+    "phone": "+91-9876543213",
+    "website": "ananyareddy.in",
+    "company": {
+      "name": "Reddy Biotech",
+      "catchPhrase": "Advancing life sciences",
+      "bs": "innovating for better health outcomes"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Vikram Kumar",
+    "username": "vikram_k",
+    "email": "vikram.kumar@example.in",
+    "address": {
+      "street": "Park Street",
+      "suite": "Flat 3C",
+      "city": "Kolkata",
+      "zipcode": "700016",
+      "geo": {
+        "lat": "22.5726",
+        "lng": "88.3639"
+      }
+    },
+    "phone": "+91-9876543214",
+    "website": "vikramkumar.com",
+    "company": {
+      "name": "Kumar Logistics",
+      "catchPhrase": "Delivering excellence",
+      "bs": "optimizing supply chain networks"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sneha Iyer",
+    "username": "sneha_i",
+    "email": "sneha.iyer@example.in",
+    "address": {
+      "street": "Marine Drive",
+      "suite": "Apartment 502",
+      "city": "Mumbai",
+      "zipcode": "400020",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543215",
+    "website": "snehaiyer.in",
+    "company": {
+      "name": "Iyer Media House",
+      "catchPhrase": "Telling compelling stories",
+      "bs": "creating engaging digital content"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Arjun Mehta",
+    "username": "arjun_m",
+    "email": "arjun.mehta@example.in",
+    "address": {
+      "street": "Sector 17",
+      "suite": "Shop No. 23",
+      "city": "Chandigarh",
+      "zipcode": "160017",
+      "geo": {
+        "lat": "30.7333",
+        "lng": "76.7794"
+      }
+    },
+    "phone": "+91-9876543216",
+    "website": "arjunmehta.co",
+    "company": {
+      "name": "Mehta Retail Group",
+      "catchPhrase": "Quality you can trust",
+      "bs": "redefining shopping experiences"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Divya Nair",
+    "username": "divya_n",
+    "email": "divya.nair@example.in",
+    "address": {
+      "street": "MG Road",
+      "suite": "Office No. 101",
+      "city": "Kochi",
+      "zipcode": "682016",
+      "geo": {
+        "lat": "9.9312",
+        "lng": "76.2673"
+      }
+    },
+    "phone": "+91-9876543217",
+    "website": "divyanair.com",
+    "company": {
+      "name": "Nair Spice Exports",
+      "catchPhrase": "Authentic Indian flavors",
+      "bs": "exporting quality spices worldwide"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Karan Malhotra",
+    "username": "karan_m",
+    "email": "karan.malhotra@example.in",
+    "address": {
+      "street": "Civil Lines",
+      "suite": "Bungalow No. 5",
+      "city": "Lucknow",
+      "zipcode": "226001",
+      "geo": {
+        "lat": "26.8467",
+        "lng": "80.9462"
+      }
+    },
+    "phone": "+91-9876543218",
+    "website": "karanmalhotra.in",
+    "company": {
+      "name": "Malhotra Real Estate",
+      "catchPhrase": "Building dreams",
+      "bs": "creating sustainable living spaces"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Pooja Joshi",
+    "username": "pooja_j",
+    "email": "pooja.joshi@example.in",
+    "address": {
+      "street": "FC Road",
+      "suite": "Flat No. 8",
+      "city": "Pune",
+      "zipcode": "411004",
+      "geo": {
+        "lat": "18.5204",
+        "lng": "73.8567"
+      }
+    },
+    "phone": "+91-9876543219",
+    "website": "poojajoshi.co.in",
+    "company": {
+      "name": "Joshi Education Services",
+      "catchPhrase": "Empowering through education",
+      "bs": "bridging learning gaps"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Rajesh Gupta",
+    "username": "rajesh_g",
+    "email": "rajesh.gupta@example.in",
+    "address": {
+      "street": "Raja Park",
+      "suite": "House No. 42",
+      "city": "Jaipur",
+      "zipcode": "302004",
+      "geo": {
+        "lat": "26.9124",
+        "lng": "75.7873"
+      }
+    },
+    "phone": "+91-9876543220",
+    "website": "rajeshgupta.com",
+    "company": {
+      "name": "Gupta Textiles",
+      "catchPhrase": "Woven with tradition",
+      "bs": "preserving Indian textile heritage"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Meera Desai",
+    "username": "meera_d",
+    "email": "meera.desai@example.in",
+    "address": {
+      "street": "Law Garden",
+      "suite": "Shop No. 15",
+      "city": "Ahmedabad",
+      "zipcode": "380006",
+      "geo": {
+        "lat": "23.0225",
+        "lng": "72.5714"
+      }
+    },
+    "phone": "+91-9876543221",
+    "website": "meeradesai.in",
+    "company": {
+      "name": "Desai Handicrafts",
+      "catchPhrase": "Handmade with love",
+      "bs": "promoting artisan craftsmanship"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Suresh Yadav",
+    "username": "suresh_y",
+    "email": "suresh.yadav@example.in",
+    "address": {
+      "street": "Gomti Nagar",
+      "suite": "Flat No. 304",
+      "city": "Lucknow",
+      "zipcode": "226010",
+      "geo": {
+        "lat": "26.8467",
+        "lng": "80.9462"
+      }
+    },
+    "phone": "+91-9876543222",
+    "website": "sureshyadav.co",
+    "company": {
+      "name": "Yadav Dairy Farms",
+      "catchPhrase": "Pure and natural",
+      "bs": "providing farm-fresh dairy products"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Anjali Kapoor",
+    "username": "anjali_k",
+    "email": "anjali.kapoor@example.in",
+    "address": {
+      "street": "Juhu Tara Road",
+      "suite": "Sea View Apartments, Flat 12A",
+      "city": "Mumbai",
+      "zipcode": "400049",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543223",
+    "website": "anjalikapoor.in",
+    "company": {
+      "name": "Kapoor Productions",
+      "catchPhrase": "Lights, camera, action!",
+      "bs": "producing quality entertainment"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Rahul Bose",
+    "username": "rahul_b",
+    "email": "rahul.bose@example.in",
+    "address": {
+      "street": "Salt Lake City",
+      "suite": "Sector V, Office 405",
+      "city": "Kolkata",
+      "zipcode": "700091",
+      "geo": {
+        "lat": "22.5726",
+        "lng": "88.3639"
+      }
+    },
+    "phone": "+91-9876543224",
+    "website": "rahulbose.com",
+    "company": {
+      "name": "Bose IT Services",
+      "catchPhrase": "Technology simplified",
+      "bs": "delivering IT solutions for businesses"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Neha Choudhary",
+    "username": "neha_c",
+    "email": "neha.choudhary@example.in",
+    "address": {
+      "street": "Ashok Marg",
+      "suite": "House No. 33",
+      "city": "Indore",
+      "zipcode": "452001",
+      "geo": {
+        "lat": "22.7196",
+        "lng": "75.8577"
+      }
+    },
+    "phone": "+91-9876543225",
+    "website": "nehachoudhary.co.in",
+    "company": {
+      "name": "Choudhary Legal Associates",
+      "catchPhrase": "Justice served right",
+      "bs": "providing comprehensive legal services"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Manoj Tiwari",
+    "username": "manoj_t",
+    "email": "manoj.tiwari@example.in",
+    "address": {
+      "street": "Fraser Road",
+      "suite": "Shop No. 8",
+      "city": "Patna",
+      "zipcode": "800001",
+      "geo": {
+        "lat": "25.5941",
+        "lng": "85.1376"
+      }
+    },
+    "phone": "+91-9876543226",
+    "website": "manojtiwari.in",
+    "company": {
+      "name": "Tiwari Auto Parts",
+      "catchPhrase": "Quality on wheels",
+      "bs": "supplying automotive components"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Kavita Srinivasan",
+    "username": "kavita_s",
+    "email": "kavita.srinivasan@example.in",
+    "address": {
+      "street": "T Nagar",
+      "suite": "Showroom No. 45",
+      "city": "Chennai",
+      "zipcode": "600017",
+      "geo": {
+        "lat": "13.0827",
+        "lng": "80.2707"
+      }
+    },
+    "phone": "+91-9876543227",
+    "website": "kavitasrinivasan.com",
+    "company": {
+      "name": "Srinivasan Silks",
+      "catchPhrase": "Elegance in every thread",
+      "bs": "crafting premium silk sarees"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Amit Verma",
+    "username": "amit_v",
+    "email": "amit.verma@example.in",
+    "address": {
+      "street": "Rajpur Road",
+      "suite": "Flat No. 201",
+      "city": "Dehradun",
+      "zipcode": "248001",
+      "geo": {
+        "lat": "30.3165",
+        "lng": "78.0322"
+      }
+    },
+    "phone": "+91-9876543228",
+    "website": "amitverma.in",
+    "company": {
+      "name": "Verma Agro Products",
+      "catchPhrase": "From farm to table",
+      "bs": "organic farming and distribution"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Sunita Menon",
+    "username": "sunita_m",
+    "email": "sunita.menon@example.in",
+    "address": {
+      "street": "Panampilly Nagar",
+      "suite": "Clinic No. 3",
+      "city": "Kochi",
+      "zipcode": "682036",
+      "geo": {
+        "lat": "9.9312",
+        "lng": "76.2673"
+      }
+    },
+    "phone": "+91-9876543229",
+    "website": "sunitamenon.co",
+    "company": {
+      "name": "Menon Dental Care",
+      "catchPhrase": "Bright smiles guaranteed",
+      "bs": "providing comprehensive dental services"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Deepak Khanna",
+    "username": "deepak_k",
+    "email": "deepak.khanna@example.in",
+    "address": {
+      "street": "Sector 29",
+      "suite": "Office Tower B",
+      "city": "Gurgaon",
+      "zipcode": "122001",
+      "geo": {
+        "lat": "28.4595",
+        "lng": "77.0266"
+      }
+    },
+    "phone": "+91-9876543230",
+    "website": "deepakhanna.com",
+    "company": {
+      "name": "Khanna Consulting",
+      "catchPhrase": "Strategize for success",
+      "bs": "business consulting and advisory"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Ritu Agarwal",
+    "username": "ritu_a",
+    "email": "ritu.agarwal@example.in",
+    "address": {
+      "street": "Ballygunge",
+      "suite": "Flat No. 5C",
+      "city": "Kolkata",
+      "zipcode": "700019",
+      "geo": {
+        "lat": "22.5726",
+        "lng": "88.3639"
+      }
+    },
+    "phone": "+91-9876543231",
+    "website": "rituagarwal.in",
+    "company": {
+      "name": "Agarwal Accountancy",
+      "catchPhrase": "Numbers made simple",
+      "bs": "accounting and taxation services"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sanjay Rao",
+    "username": "sanjay_r",
+    "email": "sanjay.rao@example.in",
+    "address": {
+      "street": "Jubilee Hills",
+      "suite": "Plot No. 56",
+      "city": "Hyderabad",
+      "zipcode": "500033",
+      "geo": {
+        "lat": "17.3850",
+        "lng": "78.4867"
+      }
+    },
+    "phone": "+91-9876543232",
+    "website": "sanjayrao.co.in",
+    "company": {
+      "name": "Rao Engineering",
+      "catchPhrase": "Precision engineering",
+      "bs": "manufacturing industrial equipment"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Lata Mishra",
+    "username": "lata_m",
+    "email": "lata.mishra@example.in",
+    "address": {
+      "street": "Boring Road",
+      "suite": "House No. 78",
+      "city": "Patna",
+      "zipcode": "800001",
+      "geo": {
+        "lat": "25.5941",
+        "lng": "85.1376"
+      }
+    },
+    "phone": "+91-9876543233",
+    "website": "latamishra.com",
+    "company": {
+      "name": "Mishra Publications",
+      "catchPhrase": "Words that matter",
+      "bs": "publishing educational books"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Vishal Bhatia",
+    "username": "vishal_b",
+    "email": "vishal.bhatia@example.in",
+    "address": {
+      "street": "Vaishali Nagar",
+      "suite": "Shop No. 12",
+      "city": "Jaipur",
+      "zipcode": "302021",
+      "geo": {
+        "lat": "26.9124",
+        "lng": "75.7873"
+      }
+    },
+    "phone": "+91-9876543234",
+    "website": "vishalbhatia.in",
+    "company": {
+      "name": "Bhatia Jewellers",
+      "catchPhrase": "Timeless elegance",
+      "bs": "crafting exquisite jewellery"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Swati Chatterjee",
+    "username": "swati_c",
+    "email": "swati.chatterjee@example.in",
+    "address": {
+      "street": "Southern Avenue",
+      "suite": "Flat No. 34",
+      "city": "Kolkata",
+      "zipcode": "700026",
+      "geo": {
+        "lat": "22.5726",
+        "lng": "88.3639"
+      }
+    },
+    "phone": "+91-9876543235",
+    "website": "swatichatterjee.co",
+    "company": {
+      "name": "Chatterjee Music Academy",
+      "catchPhrase": "Find your rhythm",
+      "bs": "teaching classical and contemporary music"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Gaurav Saxena",
+    "username": "gaurav_s",
+    "email": "gaurav.saxena@example.in",
+    "address": {
+      "street": "Gomti Nagar",
+      "suite": "Office No. 67",
+      "city": "Lucknow",
+      "zipcode": "226010",
+      "geo": {
+        "lat": "26.8467",
+        "lng": "80.9462"
+      }
+    },
+    "phone": "+91-9876543236",
+    "website": "gauravsaxena.com",
+    "company": {
+      "name": "Saxena Insurance Brokers",
+      "catchPhrase": "Your safety net",
+      "bs": "comprehensive insurance solutions"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Nandini Pillai",
+    "username": "nandini_p",
+    "email": "nandini.pillai@example.in",
+    "address": {
+      "street": "Adyar",
+      "suite": "Apartment 6B",
+      "city": "Chennai",
+      "zipcode": "600020",
+      "geo": {
+        "lat": "13.0827",
+        "lng": "80.2707"
+      }
+    },
+    "phone": "+91-9876543237",
+    "website": "nandinipillai.in",
+    "company": {
+      "name": "Pillai Software Solutions",
+      "catchPhrase": "Code that creates value",
+      "bs": "custom software development"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Harish Shetty",
+    "username": "harish_s",
+    "email": "harish.shetty@example.in",
+    "address": {
+      "street": "Linking Road",
+      "suite": "Shop No. 89",
+      "city": "Mumbai",
+      "zipcode": "400052",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543238",
+    "website": "harishshetty.co.in",
+    "company": {
+      "name": "Shetty Opticals",
+      "catchPhrase": "Clear vision, better life",
+      "bs": "eyewear and vision care"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Preeti Deshmukh",
+    "username": "preeti_d",
+    "email": "preeti.deshmukh@example.in",
+    "address": {
+      "street": "FC Road",
+      "suite": "Clinic No. 2",
+      "city": "Pune",
+      "zipcode": "411004",
+      "geo": {
+        "lat": "18.5204",
+        "lng": "73.8567"
+      }
+    },
+    "phone": "+91-9876543239",
+    "website": "preetideshmukh.com",
+    "company": {
+      "name": "Deshmukh Wellness Center",
+      "catchPhrase": "Holistic health approach",
+      "bs": "integrative medicine and wellness"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Rajeev Nambiar",
+    "username": "rajeev_n",
+    "email": "rajeev.nambiar@example.in",
+    "address": {
+      "street": "Infopark",
+      "suite": "Tech Hub, Office 301",
+      "city": "Kochi",
+      "zipcode": "682042",
+      "geo": {
+        "lat": "9.9312",
+        "lng": "76.2673"
+      }
+    },
+    "phone": "+91-9876543240",
+    "website": "rajeevnambiar.in",
+    "company": {
+      "name": "Nambiar Tech Innovations",
+      "catchPhrase": "Tomorrow's technology today",
+      "bs": "developing cutting-edge software"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Shalini Grover",
+    "username": "shalini_g",
+    "email": "shalini.grover@example.in",
+    "address": {
+      "street": "Sector 34",
+      "suite": "Showroom No. 5",
+      "city": "Chandigarh",
+      "zipcode": "160022",
+      "geo": {
+        "lat": "30.7333",
+        "lng": "76.7794"
+      }
+    },
+    "phone": "+91-9876543241",
+    "website": "shalinigrover.co",
+    "company": {
+      "name": "Grover Interior Designs",
+      "catchPhrase": "Designing your dreams",
+      "bs": "custom interior design solutions"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Alok Dubey",
+    "username": "alok_d",
+    "email": "alok.dubey@example.in",
+    "address": {
+      "street": "Civil Lines",
+      "suite": "Chamber No. 8",
+      "city": "Allahabad",
+      "zipcode": "211001",
+      "geo": {
+        "lat": "25.4358",
+        "lng": "81.8463"
+      }
+    },
+    "phone": "+91-9876543242",
+    "website": "alokdubey.in",
+    "company": {
+      "name": "Dubey & Associates",
+      "catchPhrase": "Legal expertise you can trust",
+      "bs": "corporate and civil law practice"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Madhuri Sinha",
+    "username": "madhuri_s",
+    "email": "madhuri.sinha@example.in",
+    "address": {
+      "street": "Bandra West",
+      "suite": "Flat No. 1201",
+      "city": "Mumbai",
+      "zipcode": "400050",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543243",
+    "website": "madhurisinha.com",
+    "company": {
+      "name": "Sinha Fashion House",
+      "catchPhrase": "Style redefined",
+      "bs": "designing contemporary fashion"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Prakash Iyer",
+    "username": "prakash_i",
+    "email": "prakash.iyer@example.in",
+    "address": {
+      "street": "Anna Nagar",
+      "suite": "Office No. 15",
+      "city": "Chennai",
+      "zipcode": "600040",
+      "geo": {
+        "lat": "13.0827",
+        "lng": "80.2707"
+      }
+    },
+    "phone": "+91-9876543244",
+    "website": "prakashiyer.co.in",
+    "company": {
+      "name": "Iyer Shipping Services",
+      "catchPhrase": "Connecting continents",
+      "bs": "international freight forwarding"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Anita Sharma",
+    "username": "anita_s",
+    "email": "anita.sharma@example.in",
+    "address": {
+      "street": "Rajendra Nagar",
+      "suite": "Flat No. 304",
+      "city": "Patna",
+      "zipcode": "800016",
+      "geo": {
+        "lat": "25.5941",
+        "lng": "85.1376"
+      }
+    },
+    "phone": "+91-9876543245",
+    "website": "anitasharma.in",
+    "company": {
+      "name": "Sharma Education Foundation",
+      "catchPhrase": "Lighting the lamp of knowledge",
+      "bs": "educational initiatives and scholarships"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Bharat Chadda",
+    "username": "bharat_c",
+    "email": "bharat.chadda@example.in",
+    "address": {
+      "street": "Sector 18",
+      "suite": "Market Complex",
+      "city": "Noida",
+      "zipcode": "201301",
+      "geo": {
+        "lat": "28.5355",
+        "lng": "77.3910"
+      }
+    },
+    "phone": "+91-9876543246",
+    "website": "bharatchadda.com",
+    "company": {
+      "name": "Chadda Home Appliances",
+      "catchPhrase": "Smart living made easy",
+      "bs": "retailing home appliances"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Chitra Venkatesh",
+    "username": "chitra_v",
+    "email": "chitra.venkatesh@example.in",
+    "address": {
+      "street": "Jayanagar",
+      "suite": "Clinic No. 7",
+      "city": "Bengaluru",
+      "zipcode": "560041",
+      "geo": {
+        "lat": "12.9716",
+        "lng": "77.5946"
+      }
+    },
+    "phone": "+91-9876543247",
+    "website": "chitravenkatesh.co",
+    "company": {
+      "name": "Venkatesh Pediatrics",
+      "catchPhrase": "Caring for little ones",
+      "bs": "comprehensive child healthcare"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Dinesh Purohit",
+    "username": "dinesh_p",
+    "email": "dinesh.purohit@example.in",
+    "address": {
+      "street": "MI Road",
+      "suite": "Shop No. 32",
+      "city": "Jaipur",
+      "zipcode": "302001",
+      "geo": {
+        "lat": "26.9124",
+        "lng": "75.7873"
+      }
+    },
+    "phone": "+91-9876543248",
+    "website": "dineshpurohit.in",
+    "company": {
+      "name": "Purohit Handicrafts",
+      "catchPhrase": "Artistry in every piece",
+      "bs": "traditional Rajasthani handicrafts"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Esha Banerjee",
+    "username": "esha_b",
+    "email": "esha.banerjee@example.in",
+    "address": {
+      "street": "Salt Lake",
+      "suite": "Flat GD-345",
+      "city": "Kolkata",
+      "zipcode": "700064",
+      "geo": {
+        "lat": "22.5726",
+        "lng": "88.3639"
+      }
+    },
+    "phone": "+91-9876543249",
+    "website": "eshabanerjee.com",
+    "company": {
+      "name": "Banerjee Dance Academy",
+      "catchPhrase": "Grace in motion",
+      "bs": "teaching classical Indian dance"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Farhan Qureshi",
+    "username": "farhan_q",
+    "email": "farhan.qureshi@example.in",
+    "address": {
+      "street": "Chandni Chowk",
+      "suite": "Shop No. 56",
+      "city": "Delhi",
+      "zipcode": "110006",
+      "geo": {
+        "lat": "28.6519",
+        "lng": "77.2315"
+      }
+    },
+    "phone": "+91-9876543250",
+    "website": "farhanqureshi.in",
+    "company": {
+      "name": "Qureshi Perfumers",
+      "catchPhrase": "Scents of paradise",
+      "bs": "traditional attar and perfume makers"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Gita Menon",
+    "username": "gita_m",
+    "email": "gita.menon@example.in",
+    "address": {
+      "street": "Marine Drive",
+      "suite": "Apartment 801",
+      "city": "Mumbai",
+      "zipcode": "400020",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543251",
+    "website": "gitamenon.co.in",
+    "company": {
+      "name": "Menon Investment Advisors",
+      "catchPhrase": "Growing your wealth",
+      "bs": "financial planning and investments"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Harshad Mehta",
+    "username": "harshad_m",
+    "email": "harshad.mehta@example.in",
+    "address": {
+      "street": "Ashram Road",
+      "suite": "Office No. 23",
+      "city": "Ahmedabad",
+      "zipcode": "380009",
+      "geo": {
+        "lat": "23.0225",
+        "lng": "72.5714"
+      }
+    },
+    "phone": "+91-9876543252",
+    "website": "harshadmehta.com",
+    "company": {
+      "name": "Mehta Stock Broking",
+      "catchPhrase": "Your partner in trading",
+      "bs": "stock market trading services"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Ishita Roy",
+    "username": "ishita_r",
+    "email": "ishita.roy@example.in",
+    "address": {
+      "street": "Ballygunge",
+      "suite": "Flat No. 3B",
+      "city": "Kolkata",
+      "zipcode": "700019",
+      "geo": {
+        "lat": "22.5726",
+        "lng": "88.3639"
+      }
+    },
+    "phone": "+91-9876543253",
+    "website": "ishitaroy.in",
+    "company": {
+      "name": "Roy Language Institute",
+      "catchPhrase": "Speak the world",
+      "bs": "language training and translation services"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Jatin Malhotra",
+    "username": "jatin_m",
+    "email": "jatin.malhotra@example.in",
+    "address": {
+      "street": "Green Park",
+      "suite": "A-12",
+      "city": "Delhi",
+      "zipcode": "110016",
+      "geo": {
+        "lat": "28.5665",
+        "lng": "77.2060"
+      }
+    },
+    "phone": "+91-9876543254",
+    "website": "jatinmalhotra.co",
+    "company": {
+      "name": "Malhotra Sports Academy",
+      "catchPhrase": "Champions in making",
+      "bs": "sports training and coaching"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Kiran Bedi",
+    "username": "kiran_b",
+    "email": "kiran.bedi@example.in",
+    "address": {
+      "street": "Sector 15",
+      "suite": "House No. 45",
+      "city": "Panchkula",
+      "zipcode": "134109",
+      "geo": {
+        "lat": "30.6915",
+        "lng": "76.8537"
+      }
+    },
+    "phone": "+91-9876543255",
+    "website": "kiranbedi.in",
+    "company": {
+      "name": "Bedi Security Services",
+      "catchPhrase": "Your safety first",
+      "bs": "security and surveillance solutions"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Lalit Modi",
+    "username": "lalit_m",
+    "email": "lalit.modi@example.in",
+    "address": {
+      "street": "Juhu",
+      "suite": "Sea Princess, Flat 1602",
+      "city": "Mumbai",
+      "zipcode": "400049",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543256",
+    "website": "lalitmodi.com",
+    "company": {
+      "name": "Modi Entertainment",
+      "catchPhrase": "Entertainment reimagined",
+      "bs": "event management and entertainment"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Mona Singh",
+    "username": "mona_s",
+    "email": "mona.singh@example.in",
+    "address": {
+      "street": "Koregaon Park",
+      "suite": "Bungalow No. 7",
+      "city": "Pune",
+      "zipcode": "411001",
+      "geo": {
+        "lat": "18.5204",
+        "lng": "73.8567"
+      }
+    },
+    "phone": "+91-9876543257",
+    "website": "monasingh.co.in",
+    "company": {
+      "name": "Singh Art Gallery",
+      "catchPhrase": "Where art speaks",
+      "bs": "promoting contemporary Indian art"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Naveen Jain",
+    "username": "naveen_j",
+    "email": "naveen.jain@example.in",
+    "address": {
+      "street": "Vaishali",
+      "suite": "Shop No. 89",
+      "city": "Ghaziabad",
+      "zipcode": "201010",
+      "geo": {
+        "lat": "28.6692",
+        "lng": "77.4538"
+      }
+    },
+    "phone": "+91-9876543258",
+    "website": "naveenjain.in",
+    "company": {
+      "name": "Jain Booksellers",
+      "catchPhrase": "A world of books",
+      "bs": "retailing books and stationery"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Omar Khan",
+    "username": "omar_k",
+    "email": "omar.khan@example.in",
+    "address": {
+      "street": "Hazratganj",
+      "suite": "Showroom No. 12",
+      "city": "Lucknow",
+      "zipcode": "226001",
+      "geo": {
+        "lat": "26.8467",
+        "lng": "80.9462"
+      }
+    },
+    "phone": "+91-9876543259",
+    "website": "omarkhan.com",
+    "company": {
+      "name": "Khan Leather House",
+      "catchPhrase": "Crafted with passion",
+      "bs": "manufacturing premium leather goods"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Pankaj Tripathi",
+    "username": "pankaj_t",
+    "email": "pankaj.tripathi@example.in",
+    "address": {
+      "street": "Gomti Nagar",
+      "suite": "Flat No. 405",
+      "city": "Lucknow",
+      "zipcode": "226010",
+      "geo": {
+        "lat": "26.8467",
+        "lng": "80.9462"
+      }
+    },
+    "phone": "+91-9876543260",
+    "website": "pankajtripathi.in",
+    "company": {
+      "name": "Tripathi Theater Group",
+      "catchPhrase": "Drama that touches hearts",
+      "bs": "theater productions and workshops"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Queen Singh",
+    "username": "queen_s",
+    "email": "queen.singh@example.in",
+    "address": {
+      "street": "Rajendra Place",
+      "suite": "Office No. 56",
+      "city": "Delhi",
+      "zipcode": "110008",
+      "geo": {
+        "lat": "28.6519",
+        "lng": "77.2315"
+      }
+    },
+    "phone": "+91-9876543261",
+    "website": "queensingh.co",
+    "company": {
+      "name": "Singh Beauty Salon",
+      "catchPhrase": "Beauty with elegance",
+      "bs": "premium beauty and spa services"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Ravi Shastri",
+    "username": "ravi_s",
+    "email": "ravi.shastri@example.in",
+    "address": {
+      "street": "Worli",
+      "suite": "Apartment 2301",
+      "city": "Mumbai",
+      "zipcode": "400018",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543262",
+    "website": "ravishastri.com",
+    "company": {
+      "name": "Shastri Sports Management",
+      "catchPhrase": "Nurturing champions",
+      "bs": "sports talent management"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Sanya Malhotra",
+    "username": "sanya_m",
+    "email": "sanya.malhotra@example.in",
+    "address": {
+      "street": "Vasant Vihar",
+      "suite": "B-45",
+      "city": "Delhi",
+      "zipcode": "110057",
+      "geo": {
+        "lat": "28.5562",
+        "lng": "77.1000"
+      }
+    },
+    "phone": "+91-9876543263",
+    "website": "sanyamalhotra.in",
+    "company": {
+      "name": "Malhotra Wellness Spa",
+      "catchPhrase": "Rejuvenate your senses",
+      "bs": "luxury spa and wellness retreat"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Tarun Tejpal",
+    "username": "tarun_t",
+    "email": "tarun.tejpal@example.in",
+    "address": {
+      "street": "Sector 44",
+      "suite": "Office Complex B",
+      "city": "Chandigarh",
+      "zipcode": "160044",
+      "geo": {
+        "lat": "30.7333",
+        "lng": "76.7794"
+      }
+    },
+    "phone": "+91-9876543264",
+    "website": "taruntejpal.co.in",
+    "company": {
+      "name": "Tejpal Media House",
+      "catchPhrase": "News that matters",
+      "bs": "digital media and journalism"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Uday Kumar",
+    "username": "uday_k",
+    "email": "uday.kumar@example.in",
+    "address": {
+      "street": "Basavanagudi",
+      "suite": "Clinic No. 3",
+      "city": "Bengaluru",
+      "zipcode": "560004",
+      "geo": {
+        "lat": "12.9716",
+        "lng": "77.5946"
+      }
+    },
+    "phone": "+91-9876543265",
+    "website": "udaykumar.com",
+    "company": {
+      "name": "Kumar Dental Care",
+      "catchPhrase": "Smile with confidence",
+      "bs": "advanced dental treatments"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Varun Dhawan",
+    "username": "varun_d",
+    "email": "varun.dhawan@example.in",
+    "address": {
+      "street": "Juhu",
+      "suite": "Beach House",
+      "city": "Mumbai",
+      "zipcode": "400049",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543266",
+    "website": "varundhawan.in",
+    "company": {
+      "name": "Dhawan Fitness Center",
+      "catchPhrase": "Fit for life",
+      "bs": "fitness training and gym"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Wahid Khan",
+    "username": "wahid_k",
+    "email": "wahid.khan@example.in",
+    "address": {
+      "street": "Charminar",
+      "suite": "Shop No. 45",
+      "city": "Hyderabad",
+      "zipcode": "500002",
+      "geo": {
+        "lat": "17.3616",
+        "lng": "78.4747"
+      }
+    },
+    "phone": "+91-9876543267",
+    "website": "wahidkhan.co",
+    "company": {
+      "name": "Khan Biryani House",
+      "catchPhrase": "Taste of Hyderabad",
+      "bs": "authentic Hyderabadi cuisine restaurant"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Xavier D'Souza",
+    "username": "xavier_d",
+    "email": "xavier.dsouza@example.in",
+    "address": {
+      "street": "Fontainhas",
+      "suite": "Heritage House No. 7",
+      "city": "Panaji",
+      "zipcode": "403001",
+      "geo": {
+        "lat": "15.4909",
+        "lng": "73.8278"
+      }
+    },
+    "phone": "+91-9876543268",
+    "website": "xavierdsouza.com",
+    "company": {
+      "name": "D'Souza Hospitality",
+      "catchPhrase": "Goan hospitality at its best",
+      "bs": "heritage hotel and tourism services"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Yash Chopra",
+    "username": "yash_c",
+    "email": "yash.chopra@example.in",
+    "address": {
+      "street": "Film City",
+      "suite": "Studio No. 3",
+      "city": "Mumbai",
+      "zipcode": "400065",
+      "geo": {
+        "lat": "19.1278",
+        "lng": "72.8431"
+      }
+    },
+    "phone": "+91-9876543269",
+    "website": "yashchopra.in",
+    "company": {
+      "name": "Chopra Films",
+      "catchPhrase": "Creating cinematic magic",
+      "bs": "film production and direction"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Zoya Akhtar",
+    "username": "zoya_a",
+    "email": "zoya.akhtar@example.in",
+    "address": {
+      "street": "Versova",
+      "suite": "Office No. 12",
+      "city": "Mumbai",
+      "zipcode": "400061",
+      "geo": {
+        "lat": "19.1306",
+        "lng": "72.8167"
+      }
+    },
+    "phone": "+91-9876543270",
+    "website": "zoyaakhtar.co.in",
+    "company": {
+      "name": "Akhtar Productions",
+      "catchPhrase": "Stories that resonate",
+      "bs": "content creation and film production"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Aditi Rao",
+    "username": "aditi_r",
+    "email": "aditi.rao@example.in",
+    "address": {
+      "street": "Jubilee Hills",
+      "suite": "Villa No. 23",
+      "city": "Hyderabad",
+      "zipcode": "500033",
+      "geo": {
+        "lat": "17.3850",
+        "lng": "78.4867"
+      }
+    },
+    "phone": "+91-9876543271",
+    "website": "aditirao.com",
+    "company": {
+      "name": "Rao Music Academy",
+      "catchPhrase": "Where music lives",
+      "bs": "classical music training"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Babloo Sharma",
+    "username": "babloo_s",
+    "email": "babloo.sharma@example.in",
+    "address": {
+      "street": "Sadar Bazaar",
+      "suite": "Shop No. 67",
+      "city": "Delhi",
+      "zipcode": "110006",
+      "geo": {
+        "lat": "28.6619",
+        "lng": "77.2274"
+      }
+    },
+    "phone": "+91-9876543272",
+    "website": "babloosharma.in",
+    "company": {
+      "name": "Sharma Electronics",
+      "catchPhrase": "Gadgets galore",
+      "bs": "consumer electronics retail"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Chandni Sood",
+    "username": "chandni_s",
+    "email": "chandni.sood@example.in",
+    "address": {
+      "street": "Sector 22",
+      "suite": "Boutique No. 5",
+      "city": "Chandigarh",
+      "zipcode": "160022",
+      "geo": {
+        "lat": "30.7333",
+        "lng": "76.7794"
+      }
+    },
+    "phone": "+91-9876543273",
+    "website": "chandnisood.co",
+    "company": {
+      "name": "Sood Fashion Boutique",
+      "catchPhrase": "Style for every occasion",
+      "bs": "designer clothing and accessories"
+    }
+  },
+  {
+    "id": 65,
+    "name": "Dharam Pal",
+    "username": "dharam_p",
+    "email": "dharam.pal@example.in",
+    "address": {
+      "street": "Sector 31",
+      "suite": "Office No. 8",
+      "city": "Faridabad",
+      "zipcode": "121003",
+      "geo": {
+        "lat": "28.4089",
+        "lng": "77.3178"
+      }
+    },
+    "phone": "+91-9876543274",
+    "website": "dharampal.in",
+    "company": {
+      "name": "Pal Construction",
+      "catchPhrase": "Building tomorrow",
+      "bs": "construction and infrastructure"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Ekta Kapoor",
+    "username": "ekta_k",
+    "email": "ekta.kapoor@example.in",
+    "address": {
+      "street": "Film City Road",
+      "suite": "Studio No. 5",
+      "city": "Mumbai",
+      "zipcode": "400065",
+      "geo": {
+        "lat": "19.1278",
+        "lng": "72.8431"
+      }
+    },
+    "phone": "+91-9876543275",
+    "website": "ektakapoor.com",
+    "company": {
+      "name": "Balaji Telefilms",
+      "catchPhrase": "Drama unlimited",
+      "bs": "television content production"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Farah Khan",
+    "username": "farah_k",
+    "email": "farah.khan@example.in",
+    "address": {
+      "street": "Lokhandwala",
+      "suite": "Flat No. 1202",
+      "city": "Mumbai",
+      "zipcode": "400053",
+      "geo": {
+        "lat": "19.1425",
+        "lng": "72.8353"
+      }
+    },
+    "phone": "+91-9876543276",
+    "website": "farahkhan.co.in",
+    "company": {
+      "name": "Khan Dance Academy",
+      "catchPhrase": "Dance like nobody's watching",
+      "bs": "choreography and dance training"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Gopal Das",
+    "username": "gopal_d",
+    "email": "gopal.das@example.in",
+    "address": {
+      "street": "Bhubaneswar",
+      "suite": "Temple Street, Shop 3",
+      "city": "Puri",
+      "zipcode": "752002",
+      "geo": {
+        "lat": "19.8135",
+        "lng": "85.8312"
+      }
+    },
+    "phone": "+91-9876543277",
+    "website": "gopaldas.in",
+    "company": {
+      "name": "Das Religious Articles",
+      "catchPhrase": "Divine connections",
+      "bs": "religious artifacts and puja items"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Hema Malini",
+    "username": "hema_m",
+    "email": "hema.malini@example.in",
+    "address": {
+      "street": "Chembur",
+      "suite": "Bungalow No. 12",
+      "city": "Mumbai",
+      "zipcode": "400071",
+      "geo": {
+        "lat": "19.0580",
+        "lng": "72.9000"
+      }
+    },
+    "phone": "+91-9876543278",
+    "website": "hemamalini.com",
+    "company": {
+      "name": "Malini Dance Foundation",
+      "catchPhrase": "Preserving classical arts",
+      "bs": "Bharatanatyam training and performances"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Irfan Pathan",
+    "username": "irfan_p",
+    "email": "irfan.pathan@example.in",
+    "address": {
+      "street": "VIP Road",
+      "suite": "Flat No. 45",
+      "city": "Vadodara",
+      "zipcode": "390022",
+      "geo": {
+        "lat": "22.3072",
+        "lng": "73.1812"
+      }
+    },
+    "phone": "+91-9876543279",
+    "website": "irfanpathan.in",
+    "company": {
+      "name": "Pathan Cricket Academy",
+      "catchPhrase": "Building future cricketers",
+      "bs": "cricket coaching and training"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Jaya Prada",
+    "username": "jaya_p",
+    "email": "jaya.prada@example.in",
+    "address": {
+      "street": "Film Nagar",
+      "suite": "House No. 8",
+      "city": "Hyderabad",
+      "zipcode": "500033",
+      "geo": {
+        "lat": "17.3850",
+        "lng": "78.4867"
+      }
+    },
+    "phone": "+91-9876543280",
+    "website": "jayaprada.co",
+    "company": {
+      "name": "Prada Charity Foundation",
+      "catchPhrase": "Helping hands",
+      "bs": "social work and charitable activities"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Kailash Kher",
+    "username": "kailash_k",
+    "email": "kailash.kher@example.in",
+    "address": {
+      "street": "Andheri West",
+      "suite": "Recording Studio",
+      "city": "Mumbai",
+      "zipcode": "400053",
+      "geo": {
+        "lat": "19.1364",
+        "lng": "72.8296"
+      }
+    },
+    "phone": "+91-9876543281",
+    "website": "kailashkher.com",
+    "company": {
+      "name": "Kher Music",
+      "catchPhrase": "Soulful melodies",
+      "bs": "music composition and production"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Lata Mangeshkar",
+    "username": "lata_mg",
+    "email": "lata.mangeshkar@example.in",
+    "address": {
+      "street": "Pedder Road",
+      "suite": "Prabhu Kunj",
+      "city": "Mumbai",
+      "zipcode": "400026",
+      "geo": {
+        "lat": "18.9667",
+        "lng": "72.8333"
+      }
+    },
+    "phone": "+91-9876543282",
+    "website": "latamangeshkar.in",
+    "company": {
+      "name": "Mangeshkar Music Foundation",
+      "catchPhrase": "Voice of the nation",
+      "bs": "music education and preservation"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Mithun Chakraborty",
+    "username": "mithun_c",
+    "email": "mithun.chakraborty@example.in",
+    "address": {
+      "street": "Lake Gardens",
+      "suite": "Bungalow No. 15",
+      "city": "Kolkata",
+      "zipcode": "700045",
+      "geo": {
+        "lat": "22.5726",
+        "lng": "88.3639"
+      }
+    },
+    "phone": "+91-9876543283",
+    "website": "mithunchakraborty.co.in",
+    "company": {
+      "name": "Chakraborty Dance Institute",
+      "catchPhrase": "Disco never dies",
+      "bs": "dance classes and entertainment"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Narendra Modi",
+    "username": "narendra_m",
+    "email": "narendra.modi@example.in",
+    "address": {
+      "street": "Race Course Road",
+      "suite": "7 Lok Kalyan Marg",
+      "city": "New Delhi",
+      "zipcode": "110011",
+      "geo": {
+        "lat": "28.6139",
+        "lng": "77.2090"
+      }
+    },
+    "phone": "+91-9876543284",
+    "website": "narendramodi.in",
+    "company": {
+      "name": "Public Service",
+      "catchPhrase": "Nation first",
+      "bs": "government and public service"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Om Puri",
+    "username": "om_p",
+    "email": "om.puri@example.in",
+    "address": {
+      "street": "Juhu",
+      "suite": "Flat No. 56",
+      "city": "Mumbai",
+      "zipcode": "400049",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543285",
+    "website": "ompuri.com",
+    "company": {
+      "name": "Puri Acting Studio",
+      "catchPhrase": "Method to the madness",
+      "bs": "acting training and workshops"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Padmini Kolhapure",
+    "username": "padmini_k",
+    "email": "padmini.kolhapure@example.in",
+    "address": {
+      "street": "Linking Road",
+      "suite": "Shop No. 34",
+      "city": "Mumbai",
+      "zipcode": "400052",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543286",
+    "website": "padminikolhapure.in",
+    "company": {
+      "name": "Kolhapure Fashion",
+      "catchPhrase": "Elegance personified",
+      "bs": "designer ethnic wear"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Qamar Ali",
+    "username": "qamar_a",
+    "email": "qamar.ali@example.in",
+    "address": {
+      "street": "Hussainabad",
+      "suite": "Clinic No. 8",
+      "city": "Lucknow",
+      "zipcode": "226003",
+      "geo": {
+        "lat": "26.8467",
+        "lng": "80.9462"
+      }
+    },
+    "phone": "+91-9876543287",
+    "website": "qamarali.co",
+    "company": {
+      "name": "Ali Unani Clinic",
+      "catchPhrase": "Healing traditions",
+      "bs": "traditional Unani medicine"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Rajkumar Hirani",
+    "username": "rajkumar_h",
+    "email": "rajkumar.hirani@example.in",
+    "address": {
+      "street": "Andheri East",
+      "suite": "Office No. 12",
+      "city": "Mumbai",
+      "zipcode": "400069",
+      "geo": {
+        "lat": "19.1176",
+        "lng": "72.8440"
+      }
+    },
+    "phone": "+91-9876543288",
+    "website": "rajkumarhirani.com",
+    "company": {
+      "name": "Hirani Films",
+      "catchPhrase": "Cinema with conscience",
+      "bs": "film direction and production"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Sachin Tendulkar",
+    "username": "sachin_t",
+    "email": "sachin.tendulkar@example.in",
+    "address": {
+      "street": "Perry Cross Road",
+      "suite": "Bandra House",
+      "city": "Mumbai",
+      "zipcode": "400050",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543289",
+    "website": "sachintendulkar.in",
+    "company": {
+      "name": "Sachin Tendulkar Foundation",
+      "catchPhrase": "Beyond boundaries",
+      "bs": "sports development and philanthropy"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Tabu",
+    "username": "tabu_t",
+    "email": "tabu.actress@example.in",
+    "address": {
+      "street": "Lokhandwala",
+      "suite": "Apartment 801",
+      "city": "Mumbai",
+      "zipcode": "400053",
+      "geo": {
+        "lat": "19.1425",
+        "lng": "72.8353"
+      }
+    },
+    "phone": "+91-9876543290",
+    "website": "tabu.co.in",
+    "company": {
+      "name": "Tabu Arts Initiative",
+      "catchPhrase": "Art for change",
+      "bs": "promoting arts and culture"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Urmila Matondkar",
+    "username": "urmila_m",
+    "email": "urmila.matondkar@example.in",
+    "address": {
+      "street": "Juhu",
+      "suite": "Sea View Apartments",
+      "city": "Mumbai",
+      "zipcode": "400049",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543291",
+    "website": "urmilamatondkar.com",
+    "company": {
+      "name": "Matondkar Dance Academy",
+      "catchPhrase": "Express through dance",
+      "bs": "contemporary dance training"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Vidya Balan",
+    "username": "vidya_b",
+    "email": "vidya.balan@example.in",
+    "address": {
+      "street": "Pali Hill",
+      "suite": "Bungalow No. 9",
+      "city": "Mumbai",
+      "zipcode": "400050",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543292",
+    "website": "vidyabalan.in",
+    "company": {
+      "name": "Balan Women Empowerment",
+      "catchPhrase": "Strong women, strong world",
+      "bs": "women's rights and empowerment"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Waheeda Rehman",
+    "username": "waheeda_r",
+    "email": "waheeda.rehman@example.in",
+    "address": {
+      "street": "Chembur",
+      "suite": "Senior Citizen Home",
+      "city": "Mumbai",
+      "zipcode": "400071",
+      "geo": {
+        "lat": "19.0580",
+        "lng": "72.9000"
+      }
+    },
+    "phone": "+91-9876543293",
+    "website": "waheedarehman.co",
+    "company": {
+      "name": "Rehman Heritage Trust",
+      "catchPhrase": "Preserving cinematic legacy",
+      "bs": "film preservation and restoration"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Xerxes Patel",
+    "username": "xerxes_p",
+    "email": "xerxes.patel@example.in",
+    "address": {
+      "street": "CG Road",
+      "suite": "Office No. 45",
+      "city": "Ahmedabad",
+      "zipcode": "380009",
+      "geo": {
+        "lat": "23.0225",
+        "lng": "72.5714"
+      }
+    },
+    "phone": "+91-9876543294",
+    "website": "xerxespatel.in",
+    "company": {
+      "name": "Patel Industrial Solutions",
+      "catchPhrase": "Industrial innovation",
+      "bs": "industrial equipment manufacturing"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Yogesh Mehra",
+    "username": "yogesh_m",
+    "email": "yogesh.mehra@example.in",
+    "address": {
+      "street": "Sector 18",
+      "suite": "Shop No. 23",
+      "city": "Noida",
+      "zipcode": "201301",
+      "geo": {
+        "lat": "28.5355",
+        "lng": "77.3910"
+      }
+    },
+    "phone": "+91-9876543295",
+    "website": "yogeshmehra.com",
+    "company": {
+      "name": "Mehra Home Decor",
+      "catchPhrase": "Beautiful living spaces",
+      "bs": "home decor and furnishings"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Zubin Mehta",
+    "username": "zubin_m",
+    "email": "zubin.mehta@example.in",
+    "address": {
+      "street": "Cuffe Parade",
+      "suite": "Apartment 2302",
+      "city": "Mumbai",
+      "zipcode": "400005",
+      "geo": {
+        "lat": "18.9217",
+        "lng": "72.8332"
+      }
+    },
+    "phone": "+91-9876543296",
+    "website": "zubinmehta.in",
+    "company": {
+      "name": "Mehta Music Conservatory",
+      "catchPhrase": "Symphony of excellence",
+      "bs": "classical music education"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Aishwarya Rai",
+    "username": "aishwarya_r",
+    "email": "aishwarya.rai@example.in",
+    "address": {
+      "street": "Bandstand",
+      "suite": "Sea-facing Villa",
+      "city": "Mumbai",
+      "zipcode": "400050",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543297",
+    "website": "aishwaryarai.com",
+    "company": {
+      "name": "Rai Beauty Brand",
+      "catchPhrase": "Beauty with purpose",
+      "bs": "cosmetics and beauty products"
+    }
+  },
+  {
+    "id": 89,
+    "name": "Bipasha Basu",
+    "username": "bipasha_b",
+    "email": "bipasha.basu@example.in",
+    "address": {
+      "street": "Lokhandwala",
+      "suite": "Fitness Studio",
+      "city": "Mumbai",
+      "zipcode": "400053",
+      "geo": {
+        "lat": "19.1425",
+        "lng": "72.8353"
+      }
+    },
+    "phone": "+91-9876543298",
+    "website": "bipashabasu.co.in",
+    "company": {
+      "name": "Basu Fitness",
+      "catchPhrase": "Get fit, stay fit",
+      "bs": "fitness training and wellness"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Chiranjeevi",
+    "username": "chiranjeevi_c",
+    "email": "chiranjeevi.actor@example.in",
+    "address": {
+      "street": "Jubilee Hills",
+      "suite": "Plot No. 100",
+      "city": "Hyderabad",
+      "zipcode": "500033",
+      "geo": {
+        "lat": "17.3850",
+        "lng": "78.4867"
+      }
+    },
+    "phone": "+91-9876543299",
+    "website": "chiranjeevi.in",
+    "company": {
+      "name": "Chiranjeevi Blood Bank",
+      "catchPhrase": "Every drop counts",
+      "bs": "blood donation and healthcare"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Dilip Kumar",
+    "username": "dilip_k",
+    "email": "dilip.kumar@example.in",
+    "address": {
+      "street": "Pali Hill",
+      "suite": "Bungalow No. 1",
+      "city": "Mumbai",
+      "zipcode": "400050",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543300",
+    "website": "dilipkumar.com",
+    "company": {
+      "name": "Kumar Film Archives",
+      "catchPhrase": "Preserving cinematic history",
+      "bs": "film memorabilia and archives"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Eijaz Khan",
+    "username": "eijaz_k",
+    "email": "eijaz.khan@example.in",
+    "address": {
+      "street": "Andheri West",
+      "suite": "Flat No. 304",
+      "city": "Mumbai",
+      "zipcode": "400058",
+      "geo": {
+        "lat": "19.1364",
+        "lng": "72.8296"
+      }
+    },
+    "phone": "+91-9876543301",
+    "website": "eijazkhan.in",
+    "company": {
+      "name": "Khan Acting Studio",
+      "catchPhrase": "Method acting mastery",
+      "bs": "acting workshops and training"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Fardeen Khan",
+    "username": "fardeen_k",
+    "email": "fardeen.khan@example.in",
+    "address": {
+      "street": "Juhu",
+      "suite": "Beach House",
+      "city": "Mumbai",
+      "zipcode": "400049",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543302",
+    "website": "fardeenkhan.co",
+    "company": {
+      "name": "Khan Restaurant Chain",
+      "catchPhrase": "Culinary delights",
+      "bs": "restaurant and hospitality business"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Govinda",
+    "username": "govinda_g",
+    "email": "govinda.actor@example.in",
+    "address": {
+      "street": "Versova",
+      "suite": "Apartment 1203",
+      "city": "Mumbai",
+      "zipcode": "400061",
+      "geo": {
+        "lat": "19.1306",
+        "lng": "72.8167"
+      }
+    },
+    "phone": "+91-9876543303",
+    "website": "govinda.in",
+    "company": {
+      "name": "Govinda Dance Academy",
+      "catchPhrase": "Dance like a star",
+      "bs": "dance choreography and training"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Hrithik Roshan",
+    "username": "hrithik_r",
+    "email": "hrithik.roshan@example.in",
+    "address": {
+      "street": "Juhu",
+      "suite": "Sea-facing Penthouse",
+      "city": "Mumbai",
+      "zipcode": "400049",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543304",
+    "website": "hrithikroshan.com",
+    "company": {
+      "name": "Roshan Fitness Brand",
+      "catchPhrase": "Superhuman fitness",
+      "bs": "fitness apparel and equipment"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Ileana D'Cruz",
+    "username": "ileana_d",
+    "email": "ileana.dcruz@example.in",
+    "address": {
+      "street": "Lokhandwala",
+      "suite": "Flat No. 901",
+      "city": "Mumbai",
+      "zipcode": "400053",
+      "geo": {
+        "lat": "19.1425",
+        "lng": "72.8353"
+      }
+    },
+    "phone": "+91-9876543305",
+    "website": "ileanadcruz.in",
+    "company": {
+      "name": "D'Cruz Wellness",
+      "catchPhrase": "Holistic well-being",
+      "bs": "wellness and lifestyle brand"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Jackie Shroff",
+    "username": "jackie_s",
+    "email": "jackie.shroff@example.in",
+    "address": {
+      "street": "Bandra",
+      "suite": "Bungalow No. 5",
+      "city": "Mumbai",
+      "zipcode": "400050",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543306",
+    "website": "jackieshroff.co.in",
+    "company": {
+      "name": "Shroff Animal Welfare",
+      "catchPhrase": "Voice for the voiceless",
+      "bs": "animal rescue and welfare"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Kajol Devgan",
+    "username": "kajol_d",
+    "email": "kajol.devgan@example.in",
+    "address": {
+      "street": "Juhu",
+      "suite": "Beach House",
+      "city": "Mumbai",
+      "zipcode": "400049",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    },
+    "phone": "+91-9876543307",
+    "website": "kajoldevgan.com",
+    "company": {
+      "name": "Devgan Children's Foundation",
+      "catchPhrase": "Happy childhood for all",
+      "bs": "children's education and welfare"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Lara Dutta",
+    "username": "lara_d",
+    "email": "lara.dutta@example.in",
+    "address": {
+      "street": "Andheri West",
+      "suite": "Fitness Center",
+      "city": "Mumbai",
+      "zipcode": "400053",
+      "geo": {
+        "lat": "19.1364",
+        "lng": "72.8296"
+      }
+    },
+    "phone": "+91-9876543308",
+    "website": "laradutta.in",
+    "company": {
+      "name": "Dutta Wellness Studio",
+      "catchPhrase": "Beauty and fitness combined",
+      "bs": "integrated wellness services"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Manoj Bajpayee",
+    "username": "manoj_b",
+    "email": "manoj.bajpayee@example.in",
+    "address": {
+      "street": "Andheri East",
+      "suite": "Flat No. 504",
+      "city": "Mumbai",
+      "zipcode": "400069",
+      "geo": {
+        "lat": "19.1176",
+        "lng": "72.8440"
+      }
+    },
+    "phone": "+91-9876543309",
+    "website": "manojbajpayee.com",
+    "company": {
+      "name": "Bajpayee Acting Institute",
+      "catchPhrase": "Craft meets creativity",
+      "bs": "acting training and theater workshops"
+    }
+  }
+]
