@@ -35,34 +35,34 @@ https://jsonwave.onrender.com/api/v1
 ## 📚 Available Resources
 
 ### 📝 Posts
-
+```bash
 GET /posts
 GET /posts/1
 POST /posts
 PUT /posts/1
 PATCH /posts/1
 DELETE /posts/1
-
+```
 
 ### 👤 Users
-
+```bash
 GET /users
 GET /users/1
 POST /users
 PUT /users/1
 PATCH /users/1
 DELETE /users/1
-
+```
 
 ### 💬 Comments
-
+```bash
 GET /comments
 GET /comments/1
 POST /comments
 PUT /comments/1
 PATCH /comments/1
 DELETE /comments/1
-
+```
 
 ---
 
@@ -196,7 +196,8 @@ http://localhost:3000
 
 
 ### ⚠️ Important Notes
-#### ❗ Development Use Only
+
+### ❗ Development Use Only
 
 No production usage
 
@@ -204,7 +205,7 @@ No sensitive data
 
 No authentication
 
-#### 🔄 Data Persistence
+### 🔄 Data Persistence
 
 In-memory storage
 
@@ -212,7 +213,7 @@ Resets on restart
 
 Fresh data on each deployment
 
-#### 🚦 Performance
+### 🚦 Performance
 
 Free tier (Render)
 

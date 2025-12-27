@@ -3,18 +3,19 @@
   "version": "1.0.0",
   "description": "A free fake REST API for testing and prototyping",
   "license": "ISC",
-  "author": "mayur pawar",
+  "author": "Mayur Pawar",
   "type": "module",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^5.2.1",
-    "fs": "^0.0.1-security",
-    "morgan": "^1.10.1",
-    "path": "^0.12.7",
-    "url": "^0.11.4"
+    "express": "^4.19.2",
+    "morgan": "^1.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
   }
 }
