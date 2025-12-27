@@ -1,0 +1,12 @@
+{
+  "name": "json-wave",
+  "version": "1.0.0",
+  "description": "A free fake REST API for testing and prototyping",
+  "license": "ISC",
+  "author": "mayur pawar",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
