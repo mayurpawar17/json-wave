@@ -128,10 +128,10 @@ fetch('https://jsonwave.onrender.com/api/v1/posts/1', {
 });
 ```
 
-🔍 Advanced Usage
+### 🔍 Advanced Usage
 
-Query Parameters
-
+#### Query Parameters
+```js
 // Filter by user
 /posts?userId=1
 
@@ -140,17 +140,17 @@ Query Parameters
 
 // Sorting
 /posts?_sort=title&_order=asc
+```
 
-
-Nested Routes
-
+#### Nested Routes
+```js
 /users/1/posts
 /posts/1/comments
+```
 
 
-
-💡 Example Response
-
+### 💡 Example Response
+```json
 {
   "id": 1,
   "title": "Understanding REST APIs",
@@ -159,11 +159,10 @@ Nested Routes
   "createdAt": "2024-01-15T10:30:00Z",
   "updatedAt": "2024-01-15T10:30:00Z"
 }
+```
 
-
-🛠️ Project Structure
-
-
+### 🛠️ Project Structure
+```sql
 jsonwave/
 ├── src/
 │   ├── data/
@@ -178,27 +177,26 @@ jsonwave/
 ├── package.json
 ├── README.md
 └── .env.example
+```
 
 
+### 🚀 Local Development
 
-
-🚀 Local Development
-
-
+```bash
 git clone https://github.com/yourusername/jsonwave.git
 cd jsonwave
 npm install
 cp .env.example .env
 npm run dev
-
+```
 
 Server runs at:
 
 http://localhost:3000
 
 
-⚠️ Important Notes
-❗ Development Use Only
+### ⚠️ Important Notes
+#### ❗ Development Use Only
 
 No production usage
 
@@ -206,7 +204,7 @@ No sensitive data
 
 No authentication
 
-🔄 Data Persistence
+#### 🔄 Data Persistence
 
 In-memory storage
 
@@ -214,7 +212,7 @@ Resets on restart
 
 Fresh data on each deployment
 
-🚦 Performance
+#### 🚦 Performance
 
 Free tier (Render)
 
@@ -222,7 +220,7 @@ Cold start: 10–30s
 
 No SLA guarantee
 
-🔧 Tech Stack
+### 🔧 Tech Stack
 
 Node.js + Express
 
@@ -234,13 +232,13 @@ Hosted on Render
 
 
 
-📄 License
+### 📄 License
 
 MIT License © jsonwave
 
 
 
-🌟 Support the Project
+### 🌟 Support the Project
 
 ⭐ Star the repo
 
@@ -249,7 +247,7 @@ MIT License © jsonwave
 📢 Share with dev friends
 
 
-🔗 Links
+### 🔗 Links
 
 Live API: https://jsonwave.onrender.com/api/v1/posts
 
