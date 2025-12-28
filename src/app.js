@@ -5,7 +5,7 @@ import cors from "cors";
 import postsRoutes from "./routes/posts.routes.js";
 import usersRoutes from "./routes/users.routes.js";
 import commentsRoutes from "./routes/comments.routes.js";
-// import likesRoutes from './routes/likes.routes.js'
+import likesRoutes from './routes/likes.routes.js'
 
 const app = express();
 
@@ -15,7 +15,7 @@ app.use(express.json());
 app.use("/api/v1/users", usersRoutes);
 app.use("/api/v1/posts", postsRoutes);
 app.use("/api/v1/comments", commentsRoutes);
-// app.use("/api/v1/likes", likesRoutes);
+app.use("/api/v1/likes", likesRoutes);
 // app.use("/api/v1/tags", tagsRoutes);
 
 app.get("/api/v1/health", (req, res) => {
